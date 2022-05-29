@@ -1,0 +1,53 @@
+
+.tituloPpal {
+    font-size: 48px;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+}
+.logoPpal {
+    width: 300px; 
+}
+.filaBusqueda {
+    background-color: rgba(0, 0, 0, 0.212);
+    height: auto;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.textoBusqueda {
+    background-color: rgba(0, 0, 0, 0.212);
+    font-family: 'Quicksand', sans-serif;
+    color: black;
+    font-size: 16px;
+    font-weight: bolder;
+    border: none;
+    vertical-align: middle;
+    width: 100%;
+}
+
+.textoCantCarrito {
+    font-family: 'Quicksand', sans-serif;
+    font-size: 24px;
+    font-weight: 800;
+    vertical-align: middle;
+}
+
+#btnLimpiar {
+    display: inline-flexbox;
+}
+
+.textoToast {
+    font-size: 16px;
+    font-weight: 1000;
+    font-family: 'Quicksand', sans-serif;
+}
+
+@media (max-width: 620px) {
+    #btnLimpiar {
+        display: none;
+    }
+}
+

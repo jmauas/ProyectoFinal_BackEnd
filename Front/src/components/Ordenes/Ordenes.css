@@ -1,0 +1,14 @@
+
+
+.textoID {
+    font-family: 'Rubik', sans-serif;
+    font-size: 12px;
+    font-weight: 100;
+    text-transform:uppercase;
+}
+
+.separadorFila {
+    height: 30px;
+}
+
+

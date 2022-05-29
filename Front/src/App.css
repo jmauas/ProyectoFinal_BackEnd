@@ -1,0 +1,12 @@
+#contenidoPpal {
+    width: 95%;
+    margin-left: 50px;
+    transition: all 350ms linear;
+}
+@media (max-width: 400px) {
+    #contenidoPpal {
+        width: 90%;
+        margin-left: 25px;
+        transition: all 350ms linear;
+    }
+}

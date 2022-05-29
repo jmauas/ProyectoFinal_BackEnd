@@ -1,0 +1,65 @@
+
+
+.imgPpal {
+    width: 32rem;
+    height: 32rem;
+    border: 2px solid #FF305D;
+    border-radius: 10px;
+}
+
+.tituloItem {
+    font-family: 'Rubik', sans-serif;
+    font-size: 32px;
+    font-weight: 400;
+    text-transform: capitalize;
+}
+
+.subTituloItem {
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: normal;
+    text-transform: unset;
+}
+
+
+.precioDetalle {
+    text-align: end;
+    padding: 10px;
+    font-size: 34px;
+    background-color: #FF305D;
+    font-family: 'Rubik', sans-serif;
+    color: white;
+    font-weight: 500;
+    border-radius: 15px;
+}
+.cantP {
+    width: 60px;
+    border:none;
+    text-align: center;
+}
+
+.descrip {
+    margin: 20px;
+    font-family: 'Rubik', sans-serif;
+    padding: 2px;
+    font-size: 22px
+}
+
+
+@media (max-width: 620px) {
+    .imgPpal {
+        width: 18rem;
+        height: 18rem;
+    }
+    .precioDetalle {
+        padding: 5px;
+        font-size: 28px;
+        font-weight: 400;
+    }
+    .descrip {
+        margin: 10px;
+        font-size: 18px
+    }
+
+}

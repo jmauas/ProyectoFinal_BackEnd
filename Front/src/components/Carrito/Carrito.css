@@ -1,0 +1,32 @@
+.imgCarrito {
+    width: 4rem;
+    height: 4rem;
+    border: 2px solid #FF305D;
+    border-radius: 10px;
+}
+
+.nombreProductoCarrito {
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+}
+
+.importeCarrito {
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+.totalCarrito {
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    font-size: 18px;
+    text-align: right;
+}
+
+.importeResumen {
+    font-weight: normal;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    text-align: right;
+}

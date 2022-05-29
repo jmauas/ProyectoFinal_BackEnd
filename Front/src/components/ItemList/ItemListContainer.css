@@ -1,0 +1,47 @@
+
+.item-card{
+    gap: 1.6rem;
+    border: #00CBF4 solid 2px;
+    border-radius: 1rem;
+    width: 18rem;
+    margin: 20px;
+    padding: 10px;
+    box-shadow: .2rem .4rem 1rem  rgba(37, 10, 10, .4);
+}
+
+.productos {
+    font-weight: bold;
+    font-family: 'Rubik', sans-serif;
+    font-size: 22px;
+    text-align: center;    
+}
+
+.cantP {
+    width: 60px;
+}
+
+.fotoList {
+    width: 16rem;
+    height: 16rem;
+    border: 2px solid #FF305D;
+    border-radius: 10px;
+}
+
+.tituloList {
+    text-transform: uppercase;
+    width: 16rem;
+    height: 4rem;
+}
+
+.precioList {
+    text-align: end;
+    padding: 10px;
+    background-color: #FF305D;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    color: white;
+    font-weight: 500;
+    border-radius: 15px;
+    font-size: 16px;
+}
+
+

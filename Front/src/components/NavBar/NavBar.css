@@ -1,0 +1,115 @@
+.sideBar {
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    width: 200px;
+    height: 100%;
+    background: linear-gradient(to left, lightgrey, white);
+    z-index: 99;
+    transition: all 350ms linear;
+    left: -185px;
+    top: 0px;
+    display: grid;
+    grid-template-areas:
+    "s-nombre s-barra"
+    "s-menu s-barra"
+    "s-logo s-barra";
+    grid-template-columns: 92.5% 7.5%;
+    grid-template-rows: 15% 65% auto;
+}
+
+.s-nombre {
+    grid-area: s-nombre;
+    padding: 0;
+    margin: 0;
+    margin-top: 15px;
+    margin-left: 5px;
+    align-self: flex-start;
+    top: 15px;
+    font-size: 18px;
+    font-family: 'Quicksand', sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 7px;
+    font-weight: bold;
+}
+.s-logo {
+    grid-area: s-logo;
+    width: 180px;
+    align-self: flex-end;
+    margin-bottom: 20px;
+}
+.barraNegra {
+    grid-area: s-barra;
+    background-color: black;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.barraNegra .ui-link {
+    color: white;
+}
+
+.sideBar ul {
+    grid-area: s-menu;
+    top: 10px;
+    padding: 0;
+    margin: 0;
+}
+.sideBar ul li {
+    list-style: none;
+    padding: 10px 10px;
+    border-bottom: 1px solid rgba(100,100,100, .3);
+    margin: 0 auto;
+}
+
+.sideBar ul li a {
+    color: black;
+    text-align: center;
+    font-family: 'Rubik', sans-serif;
+    height: 50px;
+}
+.items:link, .items:visited, .items:active {
+    text-decoration:none;
+    font-family: 'Rubik', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    color:black !important;
+}
+
+.sideBar:hover {
+    left: 0;
+}
+
+.sub-nav-viajes {
+    display: none;
+    margin: 5px 0px !important; 
+}
+.sub-nav-nove {
+    display: none;
+    margin: 5px 0px !important; 
+}
+.sub-nav-liqui {
+    display: none;
+    margin: 5px 0px !important; 
+}
+.sub-items {
+    margin-left: 10px !important;
+    padding: 5px 0px !important; 
+    color:black;
+}
+.sub-items:link, .sub-items:visited, .sub-items:active {
+    text-decoration:none;
+    font-family: 'Rubik', sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    color:black;
+}
+
+.activeLink {
+    border: 2px solid red;
+    border-radius: 5px;
+    padding: 8px;
+}
