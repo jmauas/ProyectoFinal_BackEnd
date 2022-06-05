@@ -14,6 +14,8 @@ import session from 'express-session';
 import mongoStore from 'connect-mongo';
 import 'dotenv/config';
 import passport from "./utils/passport.util.js";
+import compression from 'compression';
+import logger from "./utils/logger.js";
 
 class Server {
    constructor (port) {
@@ -29,7 +31,7 @@ class Server {
    async listen() {
       this.server = http.createServer(this.app);
       this.server.listen(this.port, () => {
-         console.log(`Servidor Escuchando Y Listo en http://localhost:${this.port}`)
+         logger.info(`Servidor Escuchando Y Listo en http://localhost:${this.port}`)
       });
    }
    async start() {
@@ -38,7 +40,7 @@ class Server {
          methods: ['POST', 'PUT', 'GET', 'OPTIONS', 'HEAD'],
          credentials: true,
       }));
-
+      this.app.use(compression());
       this.app.use(express.json());
       this.app.use(express.urlencoded({ extended: true }));
       this.app.use(session({
@@ -67,12 +69,13 @@ class Server {
       this.app.use("/api/usuario", routerUsuarios);
       this.app.use("/api/info", routerInfo);
       this.app.use("/api/randoms", routerRandoms);
-      this.app.get('*', (req, res) => {
+      this.app.use('*', (req, res) => {
+         logger.warn(`${req.method}  - ${req.originalUrl} - INEXISTENTE.`);
          res.status(400).json({descripcion: `Ruta ${req.originalUrl} Inexistente.`});
       });
 
       this.io.on('connection', async (socket) => {
-         console.log('Usuario Conectado');
+         logger.info('Usuario Conectado');
          socket.emit('Bienvenida', {
             msg: '👍 Estamos en Línea para escucharte. 😎 '              
          });
@@ -80,12 +83,12 @@ class Server {
          io.sockets.emit('mensajeBack', msgs)
          
          socket.on('disconnect', () => {
-               console.log('Usuario Desconectado');
+               logger.info('Usuario Desconectado');
                socket.emit('Bienvenida', '😇 Nos Vemos la Próxima. 😎 ' );
          });
          
          socket.on('notificacion', (data) => {
-               console.log(`Recibido: ${data}`);
+               logger.info(`Recibido: ${data}`);
          })
 
          socket.on('mensajeFront', async (data) => {

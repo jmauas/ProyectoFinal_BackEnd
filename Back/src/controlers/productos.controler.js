@@ -1,5 +1,6 @@
 import "./Mongo/config.js";
 import { ProductosModel } from '../models/productos.model.js';
+import logger from '../utils/logger.js';
 
 class Productos {
     constructor () {
@@ -16,7 +17,7 @@ class Productos {
             const response = await ProductosModel.create(producto);
             res(response);
         } catch (err) {
-            console.log(err)
+            logger.info(err)
         }
     }
 
@@ -35,7 +36,7 @@ class Productos {
                     sku: producto.sku,
                     updated_at: producto.updated_at
             });
-            console.log(response)
+            logger.info(response)
             res(response);
         } catch (err) {
             res(err)

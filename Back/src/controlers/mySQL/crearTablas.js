@@ -155,9 +155,9 @@ const knex = knex1(config);
             table.integer('idOrden').unsigned().notNullable();
             table.foreign('idOrden').references('id').inTable('ordenes');
         })
-        console.log('TABLAS CREADAS CON ÉXITO.')
+        logger.info('TABLAS CREADAS CON ÉXITO.')
     } catch (error) {
-        console.log(error);
+        logger.error(error);
     } finally {
         knex.destroy();
     }

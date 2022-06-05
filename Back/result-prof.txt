@@ -1,0 +1,36 @@
+Statistical profiling result from result.log, (25596 ticks, 0 unaccounted, 0 excluded).
+
+ [Shared libraries]:
+   ticks  total  nonlib   name
+  25374   99.1%          C:\WINDOWS\SYSTEM32\ntdll.dll
+    216    0.8%          C:\Program Files\nodejs\node.exe
+
+ [JavaScript]:
+   ticks  total  nonlib   name
+      2    0.0%   33.3%  Function: ^serializeInto D:\CoderHouse\Back\ec_newmanag\back\node_modules\bson\lib\parser\serializer.js:550:23
+      1    0.0%   16.7%  LazyCompile: *resolve node:path:158:10
+      1    0.0%   16.7%  Function: ^processTimers node:internal/timers:487:25
+      1    0.0%   16.7%  Function: ^measureRoundTripTime D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongodb\lib\sdam\monitor.js:280:30
+      1    0.0%   16.7%  Function: ^MongoDBNamespace D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongodb\lib\utils.js:359:16
+
+ [C++]:
+   ticks  total  nonlib   name
+
+ [Summary]:
+   ticks  total  nonlib   name
+      6    0.0%  100.0%  JavaScript
+      0    0.0%    0.0%  C++
+      9    0.0%  150.0%  GC
+  25590  100.0%          Shared libraries
+
+ [C++ entry points]:
+   ticks    cpp   total   name
+
+ [Bottom up (heavy) profile]:
+  Note: percentage shows a share of a particular caller in the total
+  amount of its parent calls.
+  Callers occupying less than 1.0% are not shown.
+
+   ticks parent  name
+  25374   99.1%  C:\WINDOWS\SYSTEM32\ntdll.dll
+

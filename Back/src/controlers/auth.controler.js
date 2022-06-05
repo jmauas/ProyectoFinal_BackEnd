@@ -1,11 +1,11 @@
+import logger from "../utils/logger.js";
+
 /* -------------------------------------------------------------------------- */
 /*                                   signup                                   */
 /* -------------------------------------------------------------------------- */
-
-
 export function postSignup(req, res) {
     const user = req.user;
-    console.log(user);
+    logger.info(`Post SignUp/${user}`);
     res.status(200).json(user);
 }
   
@@ -19,12 +19,12 @@ export function failSignup(req, res) {
   
 export function postLogin(req, res) {
     const user = req.user;
-    console.log(user);
+    logger.info(`Post Login/${user}`);
     res.status(200).json(user);
 }
   
 export function failLogin(req, res) {
-    console.log("Error en el login");
+    logger.info(`Post Login/ Error en Login`);
     res.status(401).send('No Autorizado');
 }
   
@@ -33,7 +33,7 @@ export function failLogin(req, res) {
   /* -------------------------------------------------------------------------- */
   
 export function logout(req, res) {
-    console.log("logout");
+    logger.info(`Post Login/ Logut`);
     req.logout();
     res.status(401).send('No Autorizado');
 }

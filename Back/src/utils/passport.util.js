@@ -13,7 +13,7 @@ passport.use(
             try {
                 const userExists = await UsuariosModel.findOne({username: username });
                 if (userExists) {
-                    console.log("Usuario existe");
+                    logger.info("Usuario existe");
                     return done(null, false);
                 }
                 const usuario = req.body
@@ -34,7 +34,7 @@ passport.use(
                 const user = await UsuariosModel.create(newUser);
                 return done(null, user);
             } catch (error) {
-                console.log('Error ', error);
+                logger.info('Error ', error);
             }
         }
     )
@@ -46,7 +46,7 @@ passport.use(
         try {
             const user = await UsuariosModel.findOne({username: username });
             if (!user) {
-                console.log("Usuario no encontrado!");
+                logger.info("Usuario no encontrado!");
                 return done(null, false);
             }
             const isValid = bcrypt.compareSync(password, user.password);
@@ -56,7 +56,7 @@ passport.use(
                 return done(null, false);
             }
         } catch (error) {
-            console.log(error);
+            logger.info(error);
             return done(null, error);
         }
     })

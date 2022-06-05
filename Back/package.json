@@ -7,10 +7,12 @@
     "@testing-library/jest-dom": "^5.14.1",
     "@testing-library/react": "^11.2.7",
     "@testing-library/user-event": "^12.8.3",
+    "autocannon": "^7.9.0",
     "babel": "^6.23.0",
     "bcrypt": "^5.0.1",
     "better-sqlite3": "^7.5.0",
     "bootstrap": "^5.1.1",
+    "compression": "^1.7.4",
     "connect-mongo": "^4.6.0",
     "cookie-parser": "^1.4.6",
     "cors": "^2.8.5",
@@ -29,14 +31,21 @@
     "sqlite": "^4.0.25",
     "sqlite3": "^5.0.2",
     "uniqid": "^5.4.0",
-    "web-vitals": "^1.1.2"
+    "web-vitals": "^1.1.2",
+    "winston": "^3.7.2",
+    "winston-levelonly": "^1.0.3"
   },
   "scripts": {
     "server": "nodemon --inspect ./src/inicioSrv.js 8080",
     "cluster": "node ./cluster.js 8081",
     "pm2": "pm2 start ./pm2.config.cjs",
     "4ever": "forever start ./src/inicioSrv.js 8085",
-    "start": "nodemon --inspect ./src/inicioSrv.js 8080"
+    "start": "nodemon --inspect ./src/inicioSrv.js 8080",
+    "prof": "node --prof ./src/inicioSrv.js 8080",
+    "artillery": "artillery quick --count 500 -n 200 \"http://localhost:8080/api/info\" > result_artillery.txt",
+    "leerProf": "node --prof-process result.log > result-prof.txt",
+    "0x": "0x ./src/inicioSrv.js 8080",
+    "test": "node ./src/utils/prueba.js"
   },
   "devDependencies": {
     "@faker-js/faker": "^6.2.0",

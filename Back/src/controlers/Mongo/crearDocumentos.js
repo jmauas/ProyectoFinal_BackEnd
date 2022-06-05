@@ -97,8 +97,8 @@ import { ProductosModel } from '../../models/productos.model.js';
         ];
         await ProductosModel.create(productos);
 
-        console.log('PRODUCTOS CREADOS CON ÉXITO.')
+        logger.info('PRODUCTOS CREADOS CON ÉXITO.')
     } catch (error) {
-        console.log(error);
+        logger.error(error);
     }
 })();

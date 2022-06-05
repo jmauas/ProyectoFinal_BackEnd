@@ -14,9 +14,9 @@ const knex = knex1(config);
             table.string('mensaje');
             table.datetime('fh');
         })
-        console.log('TABLAS CREADAS CON ÉXITO.')
+        logger.info('TABLAS CREADAS CON ÉXITO.')
     } catch (error) {
-        console.log(error);
+        logger.error(error);
     } finally {
         knex.destroy();
     }

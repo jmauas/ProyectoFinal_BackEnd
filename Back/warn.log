@@ -1,0 +1,357 @@
+{
+  message: 'GET  - /np - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-06-05T17:23:49.639Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T17:25:26.603Z'
+}
+{
+  message: 'Get Info/ <h1>INFORMACIÓN DE SESIÓN</h1><ul><li>Argumentos de Entrada: {"_":[8080]}</li><li>Path: D:\\CoderHouse\\Back\\ec_newmanag\\back</li><li>Sistema Operativo: win32</li><li>ID Proceso: 3884</li><li>Versión Node: v16.15.0</li><li>Carpeta Proyecto: C:\\Program Files\\nodejs\\node.exe</li><li>Memoria Total Reservada (RSS): 88182784</li><li>Número de Procesadores del Servidor: 4</li>',
+  level: 'info',
+  timestamp: '2022-06-05T17:25:27.857Z'
+}
+{
+  message: 'Get Info/ <h1>INFORMACIÓN DE SESIÓN</h1><ul><li>Argumentos de Entrada: {"_":[8080]}</li><li>Path: D:\\CoderHouse\\Back\\ec_newmanag\\back</li><li>Sistema Operativo: win32</li><li>ID Proceso: 3884</li><li>Versión Node: v16.15.0</li><li>Carpeta Proyecto: C:\\Program Files\\nodejs\\node.exe</li><li>Memoria Total Reservada (RSS): 88428544</li><li>Número de Procesadores del Servidor: 4</li>',
+  level: 'info',
+  timestamp: '2022-06-05T17:25:29.057Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T20:31:01.578Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T20:31:01.599Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T20:31:02.943Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T20:40:06.894Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:06.942Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:07.675Z'
+}
+{
+  message: 'Get Info/ <h1>INFORMACIÓN DE SESIÓN</h1><ul><li>Argumentos de Entrada: {"_":[8080]}</li><li>Path: D:\\CoderHouse\\Back\\ec_newmanag\\back</li><li>Sistema Operativo: win32</li><li>ID Proceso: 7588</li><li>Versión Node: v16.15.0</li><li>Carpeta Proyecto: C:\\Program Files\\nodejs\\node.exe</li><li>Memoria Total Reservada (RSS): 93675520</li><li>Número de Procesadores del Servidor: 4</li>',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:36.049Z'
+}
+{
+  message: 'Get Info/ <h1>INFORMACIÓN DE SESIÓN</h1><ul><li>Argumentos de Entrada: {"_":[8080]}</li><li>Path: D:\\CoderHouse\\Back\\ec_newmanag\\back</li><li>Sistema Operativo: win32</li><li>ID Proceso: 7588</li><li>Versión Node: v16.15.0</li><li>Carpeta Proyecto: C:\\Program Files\\nodejs\\node.exe</li><li>Memoria Total Reservada (RSS): 94146560</li><li>Número de Procesadores del Servidor: 4</li>',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:37.723Z'
+}
+{
+  message: 'Get Randoms/ 50',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:41.024Z'
+}
+{
+  message: {
+    '22': 1,
+    '47': 1,
+    '52': 1,
+    '55': 1,
+    '65': 1,
+    '74': 1,
+    '117': 1,
+    '120': 1,
+    '134': 2,
+    '141': 1,
+    '164': 1,
+    '227': 1,
+    '260': 1,
+    '276': 1,
+    '314': 1,
+    '328': 2,
+    '332': 2,
+    '343': 1,
+    '392': 1,
+    '399': 1,
+    '402': 1,
+    '413': 1,
+    '490': 1,
+    '496': 1,
+    '501': 1,
+    '511': 1,
+    '561': 1,
+    '566': 1,
+    '572': 1,
+    '599': 1,
+    '636': 1,
+    '651': 1,
+    '664': 1,
+    '695': 1,
+    '708': 1,
+    '720': 1,
+    '742': 1,
+    '809': 1,
+    '830': 1,
+    '841': 1,
+    '859': 1,
+    '863': 1,
+    '889': 1,
+    '922': 1,
+    '933': 1,
+    '960': 1,
+    '988': 1
+  },
+  level: 'info',
+  timestamp: '2022-06-05T20:40:41.033Z'
+}
+{
+  message: 'Get Randoms/ 50',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:42.247Z'
+}
+{
+  message: {
+    '11': 1,
+    '23': 1,
+    '55': 1,
+    '68': 1,
+    '95': 1,
+    '144': 1,
+    '147': 1,
+    '160': 1,
+    '195': 1,
+    '197': 1,
+    '203': 1,
+    '204': 1,
+    '208': 1,
+    '238': 1,
+    '256': 1,
+    '266': 1,
+    '271': 1,
+    '277': 1,
+    '294': 1,
+    '313': 1,
+    '321': 1,
+    '332': 1,
+    '335': 1,
+    '355': 1,
+    '371': 1,
+    '410': 1,
+    '446': 1,
+    '470': 1,
+    '560': 1,
+    '581': 1,
+    '592': 1,
+    '599': 1,
+    '605': 1,
+    '607': 1,
+    '614': 1,
+    '626': 1,
+    '641': 1,
+    '682': 1,
+    '706': 1,
+    '792': 1,
+    '815': 1,
+    '819': 1,
+    '830': 1,
+    '835': 1,
+    '885': 1,
+    '897': 1,
+    '905': 1,
+    '908': 1,
+    '984': 1,
+    '999': 1
+  },
+  level: 'info',
+  timestamp: '2022-06-05T20:40:42.253Z'
+}
+{
+  message: 'Get Randoms/ 50',
+  level: 'info',
+  timestamp: '2022-06-05T20:40:43.175Z'
+}
+{
+  message: {
+    '11': 1,
+    '41': 1,
+    '51': 1,
+    '78': 1,
+    '81': 1,
+    '108': 1,
+    '109': 1,
+    '114': 1,
+    '118': 1,
+    '128': 1,
+    '156': 1,
+    '158': 1,
+    '194': 1,
+    '217': 1,
+    '231': 1,
+    '294': 1,
+    '355': 1,
+    '436': 1,
+    '446': 1,
+    '470': 1,
+    '482': 1,
+    '493': 1,
+    '537': 1,
+    '551': 2,
+    '577': 1,
+    '581': 1,
+    '633': 1,
+    '654': 1,
+    '657': 1,
+    '663': 1,
+    '666': 1,
+    '701': 1,
+    '726': 1,
+    '728': 1,
+    '738': 1,
+    '756': 1,
+    '758': 1,
+    '768': 1,
+    '772': 1,
+    '834': 1,
+    '877': 1,
+    '878': 1,
+    '880': 1,
+    '903': 1,
+    '909': 1,
+    '918': 1,
+    '936': 1,
+    '961': 1,
+    '965': 1
+  },
+  level: 'info',
+  timestamp: '2022-06-05T20:40:43.183Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T20:58:15.532Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T20:58:15.575Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T20:58:16.284Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T21:13:58.618Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T21:13:58.662Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T21:13:59.494Z'
+}
+{
+  message: 'Get Info/ <h1>INFORMACIÓN DE SESIÓN</h1><ul><li>Argumentos de Entrada: {"_":[8080]}</li><li>Path: D:\\CoderHouse\\Back\\ec_newmanag\\back</li><li>Sistema Operativo: win32</li><li>ID Proceso: 4444</li><li>Versión Node: v16.15.0</li><li>Carpeta Proyecto: C:\\Program Files\\nodejs\\node.exe</li><li>Memoria Total Reservada (RSS): 95621120</li><li>Número de Procesadores del Servidor: 4</li>',
+  level: 'info',
+  timestamp: '2022-06-05T21:16:23.471Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T21:39:15.784Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T21:39:15.826Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T21:39:16.511Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T21:44:28.261Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T21:44:28.302Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T21:44:29.035Z'
+}
+{
+  message: 'Iniciando prueba',
+  level: 'info',
+  timestamp: '2022-06-05T21:49:05.919Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-05T21:51:33.727Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-05T21:51:33.765Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-05T21:51:34.547Z'
+}
+{
+  message: 'Iniciando prueba',
+  level: 'info',
+  timestamp: '2022-06-05T21:51:39.577Z'
+}

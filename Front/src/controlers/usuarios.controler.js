@@ -9,7 +9,7 @@ export const getById = async (id, orden) => {
         orden(res.data);
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }
 
@@ -20,7 +20,7 @@ export const getByUs = async (mail, pass, us) => {
         us(res.data);
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }
 
@@ -30,7 +30,7 @@ export const nuevoUsuario = async (usuario, res) => {
         res(res2.data);
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }
 
@@ -40,6 +40,6 @@ export const logOut = async (us) => {
         us();
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }

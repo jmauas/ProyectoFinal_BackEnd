@@ -1,5 +1,6 @@
 import express  from 'express';
 import minimist from 'minimist';
+import logger  from '../utils/logger.js';
 
 const router = express.Router();
 
@@ -18,7 +19,8 @@ router.get("/", (req, res) => {
     html += `<li>Memoria Total Reservada (RSS): ${process.memoryUsage().rss}</li>`;
     html += `<li>Número de Procesadores del Servidor: ${numCPUs}</li>`;
 
-    res.status(400).send(html);           
+    logger.info(`Get Info/ ${html}`);
+    res.status(200).send(html);           
 });
 
 export default router

@@ -9,7 +9,7 @@ export const getById = async (id, orden) => {
         orden(res.data);
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }
 
@@ -19,7 +19,7 @@ export const getByUs = async (mail, ordenes) => {
         ordenes(res.data);
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }
 
@@ -34,7 +34,7 @@ export const nuevaOrden = async (usuario, carrito, total, cantidad, orden) => {
         orden(res.data);
     })
     .catch(err => {
-        console.log(err);
+        logger.info(err);
     })
 }
 

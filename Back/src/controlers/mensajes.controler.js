@@ -1,6 +1,7 @@
 import "./Mongo/config.js";
 import { MensajesModel } from '../models/mensajes.model.js';
 import { faker } from '@faker-js/faker';
+import logger from '../utils/logger.js';
 
 class Mensajes {
     constructor () {
@@ -26,7 +27,7 @@ class Mensajes {
             const response = await this.Mostrar();
             res(response);
         } catch (err) {
-            console.log(err)
+            logger.error(err)
         }
     }
 
@@ -35,7 +36,7 @@ class Mensajes {
             const response = await MensajesModel.find({}).sort({'author.fh': -1});
             return response;
         } catch (err) {
-            console.log(err)
+            logger.error(err)
         }
     }
 }   

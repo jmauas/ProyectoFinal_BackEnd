@@ -69,7 +69,7 @@ export const ItemDetalle = ( {_id, nombre, precio, img, categ, descrip, stock, s
    
     return (
         <div className="container" id="contenedorDetalle">
-        {console.log(_id, nombre, precio, img, categ, descrip, stock, sku)}
+        {logger.info(_id, nombre, precio, img, categ, descrip, stock, sku)}
 
             <div className="row">
                 <div className="col">
