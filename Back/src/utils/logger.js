@@ -1,6 +1,5 @@
 import winston from 'winston';
 
-
 const logger = new winston.createLogger({
     format: winston.format.combine(
         winston.format.timestamp(),
