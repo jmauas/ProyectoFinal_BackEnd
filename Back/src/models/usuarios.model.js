@@ -41,6 +41,11 @@ const Schema = new mongoose.Schema({
         required: true,
         max: 99999999999
     },
+    codPais: {
+        type: String,
+        required: true,
+        max: 100
+    },
     tel: {
         type: String,
         required: true,
@@ -57,6 +62,9 @@ const Schema = new mongoose.Schema({
         type: String,
         required: true,
         max: 10000
+    },
+    img: {
+        type: String,
     }
 });
 

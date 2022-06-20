@@ -1,40 +1,42 @@
-import 'dotenv/config';
 import React, { useEffect, useContext } from 'react'
-import io from 'socket.io-client';
 import { UserAuthContext } from "../../context/LoginContext";
-
+import io from 'socket.io-client';
+import 'dotenv/config';
 const server = process.env.REACT_APP_SERVER;
+const socket = io(server)
 
 export const FormChat = () => {
+    console.log(server)
     const {isAuthenticated, setIsAuthenticated} = useContext(UserAuthContext);
-    const socket = io(server)
+    const montarSocket = () => {
+        socket.on('Bienvenida', (data) => {
+            const p = document.getElementById('msg');
+            p.innerHTML = data.msg;
+            socket.emit('notificacion', 'Mensaje Recibido con Éxito');
+        });
 
-    socket.on('Bienvenida', (data) => {
-        const p = document.getElementById('msg');
-        p.innerHTML = data.msg;
-        socket.emit('notificacion', 'Mensaje Recibido con Éxito');
-    });
 
-    socket.on('mensajeBack', (data) => {
-        const msgs = document.getElementById('msgs');
-        let html = '<table class="table table-condensed"><tr><th>NOMBRE</th><th>APELLIDO</th><th>E-MAIL</th><th>IMG</th><th>ENVIO</th><th>MENSAJE</th></tr>';
-        const sMail = 'style="color: blue; font-weight: bold;"';
-        const sFh = 'style="color: brown; font-weight: normal;"';
-        const sMsg = 'style="color: green; font-weight: normal; font-style: italic"';
-        data.map( m => {
-            html += `<tr key=${m.author.fh}>
-                        <td>${m.author.nombre}</td>
-                        <td>${m.author.apellido}</td>
-                        <td ${sMail}>${m.author.id}</td>
-                        <td><img width="50px" src=${m.author.avatar}/></td>
-                        <td ${sFh}>${formatoFecha(new Date(m.author.fh), 1)}</td>
-                        <td ${sMsg}>${m.text}</td>
-                    </tr>`;
-            return '';
-        })
-        html += '</table>'
-        msgs.innerHTML = html;
-    });
+        socket.on('mensajeBack', (data) => {
+            const msgs = document.getElementById('msgs');
+            let html = '<table class="table table-condensed"><tr><th>NOMBRE</th><th>APELLIDO</th><th>E-MAIL</th><th>IMG</th><th>ENVIO</th><th>MENSAJE</th></tr>';
+            const sMail = 'style="color: blue; font-weight: bold;"';
+            const sFh = 'style="color: brown; font-weight: normal;"';
+            const sMsg = 'style="color: green; font-weight: normal; font-style: italic"';
+            data.map( m => {
+                html += `<tr key=${m.author.fh}>
+                            <td>${m.author.nombre}</td>
+                            <td>${m.author.apellido}</td>
+                            <td ${sMail}>${m.author.id}</td>
+                            <td><img width="50px" src=${m.author.avatar}/></td>
+                            <td ${sFh}>${formatoFecha(new Date(m.author.fh), 1)}</td>
+                            <td ${sMsg}>${m.text}</td>
+                        </tr>`;
+                return '';
+            })
+            html += '</table>'
+            msgs.innerHTML = html;
+        });
+    }
 
     const enviarMsg = () => {
         const usuario = document.getElementById('usuario');    
@@ -85,6 +87,7 @@ export const FormChat = () => {
         setIsAuthenticated(true);
         setIsAuthenticated(false);
       }
+      montarSocket();
     })    
     
     return (
@@ -133,7 +136,8 @@ export const FormChat = () => {
                 </div>
             </div>
             <h5 className="m-3">Mensajes</h5>
-            <div className="m-3" id="msgs"></div>
+            <div className="m-3" id="msgs">                
+            </div>
         </div>          
     )
 }

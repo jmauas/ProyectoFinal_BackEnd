@@ -2,6 +2,8 @@ import { Strategy } from "passport-local";
 import passport from "passport";
 import bcrypt from "bcrypt";
 import { UsuariosModel } from "../models/usuarios.model.js";
+import logger from './logger.js';
+import { mailNuevoUsuario } from '../controlers/notificacion.controler.js';
 
 passport.use(
     "signup",
@@ -12,10 +14,6 @@ passport.use(
         async (req, username, password, done) => {
             try {
                 const userExists = await UsuariosModel.findOne({username: username });
-                if (userExists) {
-                    logger.info("Usuario existe");
-                    return done(null, false);
-                }
                 const usuario = req.body
                 const newUser = {
                     username: usuario.username,
@@ -27,12 +25,22 @@ passport.use(
                     email: usuario.email,
                     dni: usuario.dni,
                     tel: usuario.tel,
+                    codPais: usuario.codPais,
+                    img: usuario.img,
                     updated_at: usuario.updated_at,
                     password: bcrypt.hashSync(usuario.password, bcrypt.genSaltSync(10), null),
                 };
-                newUser.created_at = new Date()
-                const user = await UsuariosModel.create(newUser);
-                return done(null, user);
+                if (userExists) {
+                    newUser.updated_at = new Date()
+                    const user = await UsuariosModel.findOneAndUpdate({username: usuario.username}, newUser);
+                    return done(null, user);
+                } else {
+                    newUser.created_at = new Date();
+                    const user = await UsuariosModel.create(newUser);
+                    const fecha = new Date()
+                    mailNuevoUsuario(user)
+                    return done(null, user);
+                }
             } catch (error) {
                 logger.info('Error ', error);
             }

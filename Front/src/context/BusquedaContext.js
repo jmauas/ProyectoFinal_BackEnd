@@ -10,12 +10,15 @@ const BusquedaProvider = ( {children} ) => {
         nombre: '',
         apellido: '',
         email: '',
+        username: '',
+        codPais: '',
         tel: '',
         domicilio: '',
         localidad: '',
         provincia: '',
         dni: '',
-        password: ''
+        password: '',
+        img: ''
     })
     return (
         <>

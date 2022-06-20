@@ -6,7 +6,7 @@ import { UserAuthContext } from "../../context/LoginContext";
 
 
 export const TablaTest = () => {
-    const [setLoading] = useState([]);
+    const [loading, setLoading] = useState([]);
     const [items, setItems] = useState(null);
     const {setIsAuthenticated} = useContext(UserAuthContext);
     
@@ -26,7 +26,7 @@ export const TablaTest = () => {
         <div className="container mx-5">
             <h4>Detalle de Testeo Back de Productos Aleatorios</h4>
             <table className="table table-striped table-success">
-                <thead>
+                <thead key="1">
                     <tr key="tablaTest">
                         <th>ID</th>
                         <th>Producto</th>
@@ -34,7 +34,7 @@ export const TablaTest = () => {
                         <th>Imagen</th>
                     </tr>
                 </thead>
-                <tbody>
+                <tbody key="2">
                     {items
                      ? items.map(item => <Item {...item} key={item.id}/>)
                      : <tr key="tablaTest2"><td colSpan="4"><h2>Sin Productos en Esta Categoria / Busqueda ....</h2></td></tr>

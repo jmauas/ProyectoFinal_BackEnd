@@ -30,6 +30,10 @@ export const ControlForm = (usuario) => {
         aviso('Teléfono');
         return false;
     }
+    if (usuario.codPais == '') {
+        aviso('Codigo de País');
+        return false;
+    }
     if (usuario.domicilio.length < 5) {
         aviso('Domicilio');
         return false;

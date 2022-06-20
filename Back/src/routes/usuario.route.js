@@ -8,19 +8,19 @@ import logger from '../utils/logger.js';
 const router = express.Router();
 const usuarios = new Usuarios();
 
- router.get("/:id", auth, async (req, res) => {
-     const { ...rest } = req.params;
-     const id = rest.id;
-    logger.info(`Get Usuario/${id}`);
-     await usuarios.getById(id, u => {
-         if(u===undefined){
-             logger.error('Usuario NO Enocntrado');
-             res.status(400).json({error: 'usuario No Encontrado.'})
-         } else {
-             res.status(200).json(u);
-         }
-     });       
- });
+//  router.get("/:id", auth, async (req, res) => {
+//      const { ...rest } = req.params;
+//      const id = rest.id;
+//     logger.info(`Get Usuario/${id}`);
+//      await usuarios.getById(id, u => {
+//          if(u===undefined){
+//              logger.error('Usuario NO Enocntrado');
+//              res.status(400).json({error: 'usuario No Encontrado.'})
+//          } else {
+//              res.status(200).json(u);
+//          }
+//      });       
+//  });
 
 router.post("/login",
     passport.authenticate("login", { failureRedirect: "/api/usuario/failLogin" }),

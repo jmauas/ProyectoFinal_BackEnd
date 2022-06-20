@@ -69,8 +69,6 @@ export const ItemDetalle = ( {_id, nombre, precio, img, categ, descrip, stock, s
    
     return (
         <div className="container" id="contenedorDetalle">
-        {logger.info(_id, nombre, precio, img, categ, descrip, stock, sku)}
-
             <div className="row">
                 <div className="col">
                     <img src={process.env.PUBLIC_URL+img}  className="imgPpal" alt={nombre} />

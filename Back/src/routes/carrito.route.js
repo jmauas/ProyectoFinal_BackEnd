@@ -1,16 +1,16 @@
 import express  from 'express';
-import Carrito from '../controlers/carrito.controler.js';
+import Orden from '../controlers/carrito.controler.js';
 import auth from '../middle/auth.middle.js';
 import logger from '../utils/logger.js';
 
 const router = express.Router();
-const carrito = new Carrito();
+const orden = new Orden();
 
 router.get("/:id", auth, (req, res) => {
     const { ...rest } = req.params;
     const id = rest.id;
     logger.info(`Get Carrito/${id}`);
-    carrito.getById(id, p => {
+    orden.getById(id, p => {
         if(p===undefined){
             logger.warn('Carrito NO Enocntrado');
             res.status(400).json({error: 'Carrito No Encontrado.'})
@@ -21,23 +21,22 @@ router.get("/:id", auth, (req, res) => {
 });
 
 router.get("/usuario/:email", auth, (req, res) => {
-    const { ...rest } = req.params;
-    const email = rest.email;
+    const email = req.params.email;
     logger.info(`Get Carrito/usuario/${email}`);
-    carrito.geByUs(email, ordenes => {
+    orden.getByUs(email, ordenes => {
         res.status(200).json(ordenes);
     });
 });
 
 router.post("/", auth, (req, res) => {
     try {
-        const { datos, carrito, total, cantTotal } = req.body;
-        logger.info(`Post Carrito/Datos: ${JSON.stringify(datos)}
+        const { carrito, total, cantidad, usuario } = req.body;
+        logger.info(`Post Carrito/Usuario: ${JSON.stringify(usuario)}
                          - Carrito: ${JSON.stringify(carrito)}
                          - Total: ${JSON.stringify(total)} 
-                         - CantTotal: ${JSON.stringify(cantTotal)}`);
-        carrito.generarOrden(datos, carrito, total, cantTotal, carrito => {
-            res.status(200).json(carrito);
+                         - Cantidad: ${JSON.stringify(cantidad)}`);
+        orden.generarOrden(carrito, total, cantidad, usuario, ordenNueva => {
+            res.status(200).json(ordenNueva);
         });
     } catch (err) {
         logger.error(`Post Carrito - Error: ${err}`);
@@ -51,7 +50,7 @@ router.put("/:id", auth, (req, res) => {
         const { ...rest } = req.params;
         logger.info(`Put Carrito/ ID: ${rest.id}
         - Carrito: ${JSON.stringify(carritoNuevo)}`);
-        carrito.modi(carritoNuevo, c => {
+        orden.modi(carritoNuevo, c => {
             res.status(200).json(c);
         });
     } catch (err) {
@@ -65,7 +64,7 @@ router.delete("/:id", auth, (req, res) => {
         const { ...rest } = req.params;
         const id = rest.id;
         logger.info(`Delete Carrito/ID ${id}`);
-        carrito.deleteById(id, c => {
+        orden.deleteById(id, c => {
             res.status(200).json(c);
         });
     } catch (err) {

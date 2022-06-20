@@ -17,6 +17,7 @@ export const Ordenes = () => {
 
     useEffect(() => {
         pedirOrdenes(usuario.email, (res) => {
+            console.log(res)
             setOrders(res);
         })       
     }, [setOrders, usuario.email])
@@ -45,13 +46,13 @@ export const Ordenes = () => {
                                                 </tr>
                                             </thead> 
                                             <tbody>
-                                                <tr key={order.doc.id} className="filaProducto" valign="middle">
-                                                    <td colSpan="1"><span className="mx-3">{order.date.toDate().toLocaleString('en-GB', { timeZone: 'UTC' })}</span></td>
-                                                    <td colSpan="1"><span className="mx-3 textoID">{order.doc.id}</span></td>
+                                                <tr key={order._id} className="filaProducto" valign="middle">
+                                                    <td colSpan="1"><span className="mx-3">{order.fh.toLocaleString('en-GB', { timeZone: 'UTC' })}</span></td>
+                                                    <td colSpan="1"><span className="mx-3 textoID">{order._id}</span></td>
                                                     <td className="importeCarrito">{formatoSepMiles(order.cantTotal, 0)}</td>
                                                     <td className="importeCarrito">{formatoSepMiles(order.total, 0)}</td>
                                                 </tr>
-                                                <tr key={order.doc.id+'titulo'}>
+                                                <tr key={order._id+'titulo'}>
                                                     <th>Producto</th>
                                                     <th>Cantidad</th>
                                                     <th>Precio</th>
@@ -59,22 +60,22 @@ export const Ordenes = () => {
                                                 </tr>
                                                 {
                                                     order.items.map((item) => (
-                                                        <tr key={item.id} className="filaProducto" valign="middle">
+                                                        <tr key={item._id} className="filaProducto" valign="middle">
                                                             <td><span className="mx-3">{item.sku+' - '+item.nombre}</span></td>
                                                             <td className="importeResumen">{formatoSepMiles(item.cantidad, 0)}</td>
                                                             <td className="importeResumen">{formatoSepMiles(item.precio, 0)}</td>
-                                                            <td className="importeResumen">{formatoSepMiles(Number(item.cantidad) * Number(item.precio), 0)}</td>
+                                                            <td className="importeResumen">{formatoSepMiles(item.total, 0)}</td>
                                                         </tr>
                                                     ))
                                                 }
                                               
-                                                <tr key={'separador1'+order.doc.id} className="table table-dark" valign="middle">
+                                                <tr key={'separador1'+order._id} className="table table-dark" valign="middle">
                                                     <td></td>
                                                     <td></td>
                                                     <td></td>
                                                     <td></td>
                                                 </tr>
-                                                <tr key={'separador2'+order.doc.id} className="table table-ligth separadorFila" valign="middle">
+                                                <tr key={'separador2'+order._id} className="table table-ligth separadorFila" valign="middle">
                                                     <td></td>
                                                     <td></td>
                                                     <td></td>

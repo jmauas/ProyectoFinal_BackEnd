@@ -9,17 +9,17 @@ export const getById = async (id, orden) => {
         orden(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
 export const getByUs = async (mail, ordenes) => {
-    await AxiosMidle.get(`${server}/api/carrito/${mail}`)
+    await AxiosMidle.get(`${server}/api/carrito/usuario/${mail}`)
     .then(res => {
         ordenes(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
@@ -34,7 +34,7 @@ export const nuevaOrden = async (usuario, carrito, total, cantidad, orden) => {
         orden(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 

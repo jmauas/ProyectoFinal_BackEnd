@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import { UserAuthContext } from "../../context/LoginContext";
-import { BiLogIn, BiExit, BiShoppingBag as Bag } from "react-icons/bi";
+import { BiLogIn, BiExit, BiShoppingBag as Bag, BiUser } from "react-icons/bi";
 import { Modal, Button } from "react-bootstrap";
 import { BusquedaContext } from "../../context/BusquedaContext";
 import './Login.css';
@@ -10,6 +10,7 @@ import Swal from "sweetalert2";
 import { Link } from "react-router-dom";
 
 export const UserAuthenticate = () => {
+    const server = process.env.REACT_APP_SERVER;
     const history = useHistory();
     const {isAuthenticated, setIsAuthenticated} = useContext(UserAuthContext);
     const {usuario, setUsuario} = useContext(BusquedaContext);
@@ -79,10 +80,21 @@ export const UserAuthenticate = () => {
                 isAuthenticated 
                 ?
                     <>
-                        <span className="animate__animated animate__fadeInDownBig">Bienvenido <span className="nombreUsuario animate__animated animate__fadeInDownBig">{usuario.nombre}</span></span>
-                        <button className="btn btn-info btn-sm mx-2 animate__animated animate__fadeInUpBig" onClick={handleSalir}> <BiExit color="#FF305D" size="15px"/> Salir </button>
+                        <span className="m-1 animate__animated animate__fadeInDownBig">Bienvenido <span className="nombreUsuario animate__animated animate__fadeInDownBig">{usuario.nombre}</span></span>
+                        <button className="btn btn-info btn-sm m-1 animate__animated animate__fadeInUpBig" onClick={handleSalir}> <BiExit color="#FF305D" size="15px"/> Salir </button>
                         <Link to="/ordenes">
-                            <button className="btn btn-primary btn-sm mx-2 animate__animated animate__fadeInUpBig" > <Bag color="#FF305D" size="15px"/> Ver Compras </button>
+                            <button className="btn btn-primary btn-sm m-1 animate__animated animate__fadeInUpBig" > <Bag color="#FF305D" size="15px"/> Ver Compras </button>
+                        </Link>
+                        {
+                            usuario.img!=''
+                            ?
+                                <>
+                                    <img className="img-usuario-2 m-1 animate__animated animate__fadeInUpBig" src={server+"/api/subir/"+usuario.img} alt="Foto Usuario" name="img" id="img"></img>
+                                </>
+                            : <></>
+                        }
+                        <Link to="/registrarse">
+                            <button className="btn btn-warning btn-sm mx-1 animate__animated animate__fadeInUpBig" > <BiUser color="#FF305D" size="15px"/> Editar Perfil </button>
                         </Link>
                     </>
                 :

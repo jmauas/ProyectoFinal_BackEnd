@@ -33,10 +33,10 @@ export const NavBar = ({nombreEmpresa, urlLogoPpal}) => {
 
                 <ul>
                     <li><NavLink activeClassName={'activeLink'} className="items" exact to="/"><TiHome color="#FF305D" size="25px"/> Inicio</NavLink></li>
-                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/productos/cotillon"><FaFutbol color="#00CBF4" size="25px"/> Cotillón</NavLink></li>
-                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/productos/papeleria"><FaScroll color="#FFC200" size="25px"/> Papeleria</NavLink></li>
-                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/productos/reposteria"><Torta color="#FF305D" size="25px"/> Repostería</NavLink></li>
-                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/productos/distribucion"><FaFutbol color="#FFC200" size="25px"/> Distribución</NavLink></li>
+                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/detalle/cotillon"><FaFutbol color="#00CBF4" size="25px"/> Cotillón</NavLink></li>
+                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/detalle/papeleria"><FaScroll color="#FFC200" size="25px"/> Papeleria</NavLink></li>
+                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/detalle/reposteria"><Torta color="#FF305D" size="25px"/> Repostería</NavLink></li>
+                    <li><NavLink activeClassName={'activeLink'} className="items" exact to="/detalle/distribucion"><FaFutbol color="#FFC200" size="25px"/> Distribución</NavLink></li>
                     <li><NavLink activeClassName={'activeLink'} className="items" exact to="/carrito"><Carro color="red" size="25px"/> Ver Carrito</NavLink></li>
                     <li><NavLink activeClassName={'activeLink'} className="items" exact to="/chat"><Chat color="#00CBF4" size="25px"/> Chat</NavLink></li>
                     <li><NavLink activeClassName={'activeLink'} className="items" exact to="/test"><Carro color="red" size="25px"/> Test Productos</NavLink></li>

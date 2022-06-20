@@ -1,8 +1,12 @@
-import React, { useContext } from 'react'
+import React, { useContext, useState } from 'react'
 import { BusquedaContext } from "../../context/BusquedaContext";
 import { Badge } from 'react-bootstrap';
 import { BsCheckCircle as Check } from 'react-icons/bs';
+import './FormUsuario.css';
+import AxiosMidle from '../../midle/axios-midle.js'
+import paises from '../../modelos/paises.models'
 
+const server = process.env.REACT_APP_SERVER;
 
 export const FormUsuario = ({enviar, loading}) => {
     const {usuario, setUsuario} = useContext(BusquedaContext);
@@ -19,7 +23,25 @@ export const FormUsuario = ({enviar, loading}) => {
         e.preventDefault();
         enviar();
     }
-    
+
+    const handleImageUpload = async (event) => {
+        event.preventDefault();
+        const formData = new FormData()
+        const file = document.getElementById('myFile').files[0];
+        formData.append('myFile', file)
+        await AxiosMidle.post(`${server}/api/subir`, 
+            formData, {headers: { "Content-Type": "multipart/form-data" }})
+        .then(res => {
+            setUsuario({
+                ...usuario,
+                img: res.data.file.filename
+            });
+        })
+        .catch(err => {
+            console.log(err);
+        })
+    }  
+
     return (
             <div className="container my-5">
                 <form onSubmit={handleSubmit}>
@@ -67,6 +89,11 @@ export const FormUsuario = ({enviar, loading}) => {
                             {usuario.email.length === 0 && <Badge pill bg="warning" text="dark">E-Mail es obligatorio</Badge>}
                         </div>
                         <div className="col-lg-2 col-md-4 col-xs-12">
+                            <select className="form-control m-2" name="codPais" value={usuario.codPais} onChange={handleInputChange}>
+                                {paises.map(pais => (
+                                    <option key={pais.iso2} value={pais.phone_code}>{pais.phone_code} - {pais.nombre}</option>
+                                ))}
+                            </select>
                             <input
                                 className="form-control m-2"
                                 type="tel"
@@ -145,11 +172,16 @@ export const FormUsuario = ({enviar, loading}) => {
                             />
                         </div>
                         <div className="col-2">
-                            {usuario.password.length < 8 && <Badge pill bg="warning" text="dark">Password debe ser Mayor a 8 caracteres</Badge>}
+                            {usuario.password.length < 8 && <Badge pill bg="warning" text="dark">debe ser Mayor a 8 caracteres</Badge>}
+                        </div>
+                        <div className="col-4">
+                            <Badge pill bg="info" text="dark">Imagen Usuario</Badge>
+                            <input type="file" onChange={handleImageUpload} name="myFile" id="myFile" accept="image/png, .jpeg, .jpg, image/gif"/>
+                            <img className="img-usuario" src={server+"/api/subir/"+usuario.img} alt="Foto Usuario" name="img" id="img"></img>
                         </div>
                     </div>
                     <button className="btn btn-success my-3" disabled={loading} type="submit"><Check size="25px"/> Registrar</button>
-                </form>
+                </form>               
             </div>
     )
 }

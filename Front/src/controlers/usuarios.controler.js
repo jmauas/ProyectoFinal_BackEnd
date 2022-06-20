@@ -9,7 +9,7 @@ export const getById = async (id, orden) => {
         orden(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
@@ -20,7 +20,7 @@ export const getByUs = async (mail, pass, us) => {
         us(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
@@ -30,16 +30,16 @@ export const nuevoUsuario = async (usuario, res) => {
         res(res2.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
 export const logOut = async (us) => {
-    await AxiosMidle.get(`${server}/api/usuario/logout/`)
+    await AxiosMidle.get(`${server}/api/usuario/logout`)
     .then(res => {
         us();
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }

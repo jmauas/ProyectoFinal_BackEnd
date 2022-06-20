@@ -1,0 +1,25 @@
+.input {
+    position: relative;
+    display: inline-block;
+  }
+  
+.input::before {
+    background-color: #5678EF;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    content: '📎 Enviar Archivo'; /* texto por defecto */
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.img-usuario {
+  width:200px
+}
+
+  

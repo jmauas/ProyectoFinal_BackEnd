@@ -31,10 +31,14 @@ const SchemaOrdenes = new mongoose.Schema({
         required: true,
         max: 100
     },
-    dni: {
-        type: Number,
+    username: {
+        type: String,
         required: true,
-        max: 99999999
+        max: 100
+    },
+    dni: {
+        type: String,
+        required: true
     },
     tel: {
         type: String,
@@ -46,23 +50,30 @@ const SchemaOrdenes = new mongoose.Schema({
         required: true,
         max: 99999
     },
-    fh: {
-        type: Date,
-        required: true
-    },
     total: {
         type: Number,
         required: true,
         max: 9999999999
+    },
+    fh: {
+        type: Date,
+        required: true,
+        default: Date.now()
     }
 });
 
 const SchemaOrdenes_items = new mongoose.Schema({
-    idProducto: {
-        type: Number,
-        required: true
-    },
     nombre: {
+        type: String,
+        required: true,
+        max: 1000
+    },
+    categ: {
+        type: String,
+        required: true,
+        max: 1000
+    },
+    descrip: {
         type: String,
         required: true,
         max: 1000
@@ -82,19 +93,24 @@ const SchemaOrdenes_items = new mongoose.Schema({
         required: true,
         max: 999999999
     },
-    cant: {
+    stock: {
+        type: Number,
+        required: true,
+        max: 999999999
+    },
+    cantidad: {
         type: Number,
         required: true,
         max: 99999
     },
     idOrden: {
-        type: Date,
+        type: String,
         required: true
     },
     total: {
-        type: String,
+        type: Number,
         required: true,
-        max: 10000
+        max: 9999999999
     }
 });
 

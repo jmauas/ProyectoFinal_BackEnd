@@ -1,0 +1,82 @@
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-06-19T16:01:58.674Z'
+}
+{
+  message: "error TypeError: Class constructor Server cannot be invoked without 'new'",
+  level: 'error',
+  timestamp: '2022-06-19T21:07:05.532Z'
+}
+{
+  message: 'Post Carrito - Error: TypeError: carrito.generarOrden is not a function',
+  level: 'error',
+  timestamp: '2022-06-19T22:17:39.684Z'
+}
+{
+  message: 'Post Carrito - Error: TypeError: carrito.generarOrden is not a function',
+  level: 'error',
+  timestamp: '2022-06-19T22:35:40.162Z'
+}
+{
+  message: 'Error al Conectarse a MongoDB',
+  level: 'error',
+  timestamp: '2022-06-20T01:14:53.598Z'
+}
+{
+  message: 'error ReferenceError: app is not defined',
+  level: 'error',
+  timestamp: '2022-06-20T08:52:20.787Z'
+}
+{
+  message: 'error ReferenceError: app is not defined',
+  level: 'error',
+  timestamp: '2022-06-20T16:15:35.504Z'
+}
+{
+  message: 'error ReferenceError: eoexpress is not defined',
+  level: 'error',
+  timestamp: '2022-06-20T16:19:20.995Z'
+}
+{
+  message: 'error ReferenceError: eouterexpress is not defined',
+  level: 'error',
+  timestamp: '2022-06-20T16:19:23.071Z'
+}
+{
+  message: 'error ReferenceError: routerexpress is not defined',
+  level: 'error',
+  timestamp: '2022-06-20T16:19:26.285Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-06-20T20:27:39.634Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-06-20T20:30:15.395Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-06-20T20:32:04.602Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-06-20T20:32:04.627Z'
+}

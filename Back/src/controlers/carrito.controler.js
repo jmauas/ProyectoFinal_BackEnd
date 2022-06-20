@@ -1,5 +1,6 @@
 import "./Mongo/config.js";
 import { OrdenesModel, OrdenesModel_Items } from '../models/ordenes.model.js';
+import { mailNuevaVenta, smsNuevaVenta, wpNuevaVenta } from './notificacion.controler.js';
 
 class Ordenes {
     constructor () {
@@ -9,23 +10,48 @@ class Ordenes {
         this.deleteById = this.deleteById.bind(this);
     }
 
-    async generarOrden(datos, carrito, total, cantTotal, res) {
+    async generarOrden(carrito, total, cantidad, usuario, res) {
         try {
             // generar el objeto orden
             const orden = {
                 total: total,
-                cantTotal: cantTotal,
-                fh: new Date(),
-                ...datos
+                cantTotal: cantidad,
+                username: usuario.username,
+                nombre: usuario.nombre,
+                apellido: usuario.apellido,
+                domicilio: usuario.domicilio,
+                localidad: usuario.localidad,
+                provincia: usuario.provincia,
+                email: usuario.email,
+                dni: usuario.dni,
+                tel: usuario.tel
             }
             const response = await OrdenesModel.create(orden);
-            orden.id = response._id;
+            orden.id = response._id.valueOf();
+            orden.items = [];
             for await (let i of carrito) {
-                i.idOrden = orden.id;
-                await OrdenesModel_Items.create(i);
+                const total = i.cantidad * i.precio;
+                const item = {
+                    idOrden: orden.id,
+                    total: total,
+                    cantidad: i.cantidad,
+                    nombre: i.nombre,
+                    precio: i.precio,
+                    sku: i.sku,
+                    img: i.img,
+                    descrip: i.descrip,
+                    stock: i.stock,
+                    categ: i.categ
+                }
+                await OrdenesModel_Items.create(item);
+                orden.items.push(item)
             }
+            mailNuevaVenta(orden);
+            wpNuevaVenta(orden);
+            smsNuevaVenta(orden)
             res(orden);
         } catch (err) {
+            console.log('ERRORRRRRRRR ', err)
             res(err)
         }
     }
@@ -42,11 +68,13 @@ class Ordenes {
 
     async getByUs(us, res) {
         try {
-            const response = await OrdenesModel.find({mail: us});
+            let response = await OrdenesModel.find({mail: us});
+            const ordenes = [];
             for await (let i of response) {
-                i.items = await OrdenesModel_Items.find({idOrden: i._id});
+                const item = await OrdenesModel_Items.find({idOrden: i._id.valueOf()});
+                ordenes.push({items : item, ...i._doc});
             }
-            res(response);
+            res(ordenes);
         } catch (err) {
             res(err)
         }         

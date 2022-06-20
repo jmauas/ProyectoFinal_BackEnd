@@ -9,7 +9,7 @@ export const getById = (id, producto) => {
         producto(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
@@ -19,7 +19,7 @@ export const getByCat = (categoria, productos) => {
         productos(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
@@ -29,7 +29,7 @@ export const getAll = (all) => {
         all(res.data);
     })
     .catch(err => {
-        logger.info(err);
+        console.log(err);
     })
 }
 
@@ -39,6 +39,6 @@ export const getAllTest = (all) => {
         all(res.data);
     })
     .catch(err => {        
-        logger.info('Error en Solicitud', err);
+        console.log('Error en Solicitud', err);
     })
 }

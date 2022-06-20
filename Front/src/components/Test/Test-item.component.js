@@ -9,7 +9,7 @@ export const Item = ( {_id, nombre, precio, img} ) => {
             <td>{_id}</td>
             <td>{nombre}</td>
             <td>{formatoSepMiles(precio, 2)}</td>
-            <td><img width="200px" src={img} alt="imagen"/></td>
+            <td><img width="200px" src={img} alt="imagen" key={'img'+_id}/></td>
         </tr>
     )
 }
