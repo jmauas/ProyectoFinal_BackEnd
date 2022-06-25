@@ -1,4 +1,4 @@
-import * as controladorU from '../controlers/usuarios.controler';
+import * as controladorU from '../\services\/usuarios.service';
 
 export const pedirUsuario = (mail, id, pass, res) => {
     mail 

@@ -1,0 +1,593 @@
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:32:37.559Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:32:37.592Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:32:38.936Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:34:20.994Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:34:21.014Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:34:21.589Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:35:08.838Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:35:08.859Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:35:09.571Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:36:45.634Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:36:45.676Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:36:46.331Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:42:55.336Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:42:55.354Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:42:56.514Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:43:03.540Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:43:03.619Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:43:04.200Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:43:10.104Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:43:10.149Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:43:12.122Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:45:35.992Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:45:36.049Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:45:37.262Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:46:16.422Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:46:16.457Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:46:17.136Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:47:39.800Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:47:39.828Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:47:41.603Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:48:21.956Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:48:21.976Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:48:22.537Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:52:34.826Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:52:34.845Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:52:35.610Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:53:34.110Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:53:34.135Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:53:34.683Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:53:53.692Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:53:53.715Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:53:54.266Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:54:14.297Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:54:14.317Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:54:15.805Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:54:15.823Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:54:16.408Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T16:54:54.390Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T16:54:54.441Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T16:54:55.610Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:33:34.006Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:33:34.023Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:33:35.556Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:35:07.795Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:35:07.845Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:35:08.445Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:35:38.425Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:35:38.446Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:35:39.416Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:36:03.729Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:03.760Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:36:05.753Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:05.788Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:06.601Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:36:33.237Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:33.267Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:33.898Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:36:36.864Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:36.901Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:36:37.467Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:38:58.003Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:38:58.024Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:38:59.246Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:39:34.599Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:39:34.623Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:39:36.025Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:42:57.961Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:42:57.982Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:42:59.168Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:43:49.061Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:43:49.108Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:43:53.723Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:43:53.846Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:43:55.834Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:44:08.100Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:44:08.146Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:44:08.917Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:44:28.546Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:44:28.567Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:44:29.159Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-06-25T17:49:02.580Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-06-25T17:49:02.600Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-06-25T17:49:03.180Z'
+}

@@ -10,7 +10,7 @@ import express  from 'express';
 import http from 'http';
 import cors from 'cors';
 import { Server as SocketSrv } from 'socket.io';
-import Mensajes from "./controlers/mensajes.controler.js";
+import Mensajes from "./\services\/mensajes.service.js";
 import session from 'express-session';
 import mongoStore from 'connect-mongo';
 import 'dotenv/config';

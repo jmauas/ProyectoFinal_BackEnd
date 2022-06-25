@@ -3,7 +3,7 @@ import passport from "passport";
 import bcrypt from "bcrypt";
 import { UsuariosModel } from "../models/usuarios.model.js";
 import logger from './logger.js';
-import { mailNuevoUsuario } from '../controlers/notificacion.controler.js';
+import { mailNuevoUsuario } from '../\services\/notificacion.service.js';
 
 passport.use(
     "signup",

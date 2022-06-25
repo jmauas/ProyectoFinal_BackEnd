@@ -1,4 +1,4 @@
-import * as controladorP from '../controlers/productos.controler.js';
+import * as controladorP from '../\services\/productos.service.js';
 
 export const pedirProductos = (categ, res) => {
     categ

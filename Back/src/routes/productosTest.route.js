@@ -1,16 +1,9 @@
 import express  from 'express';
-import Productos from '../controlers/productosTest.controler.js';
 import auth from '../middle/auth.middle.js';
-import logger from '../utils/logger.js';
+import { getProd } from '../controllers/productosTest.controller.js';
 
 const router = express.Router();
-const prod = new Productos();
 
-router.get("/", auth, (req, res) => {
-    logger.info(`Get ProductosTest/`);
-    prod.getAll(p => {
-        res.status(200).json(p);
-    });
-});
+router.get("/", auth, getProd);
 
 export default router;
