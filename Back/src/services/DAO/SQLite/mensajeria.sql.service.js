@@ -1,11 +1,9 @@
-import "./Mongo/config.js";
-import { MensajesModel } from '../models/mensajes.model.js';
-import { faker } from '@faker-js/faker';
-import logger from '../utils/logger.js';
+import { config } from "./configSqLite.js";
+import knex1 from 'knex';
 
 class Mensajes {
     constructor () {
-        this.guardarYMostrar = this.guardarYMostrar.bind(this);
+        this.knex = knex1(config);
     }
 
     async guardarYMostrar(socketId, data, res) {
@@ -22,23 +20,22 @@ class Mensajes {
                     fh: data.fh
                 },
                 text: data.mensaje,
-             }
-            await MensajesModel.create(msg);
+            }
+            await this.knex('mensajes').insert(msg);
             const response = await this.Mostrar();
             res(response);
         } catch (err) {
             logger.error(err)
         }
     }
-
     async Mostrar() {
         try {           
-            const response = await MensajesModel.find({}).sort({'author.fh': -1});
+            const response = await this.knex.select().from('mensajes');
             return response;
         } catch (err) {
             logger.error(err)
         }
     }
-}   
+}
 
 export default Mensajes;

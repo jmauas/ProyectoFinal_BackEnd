@@ -1,5 +1,5 @@
-import "./Mongo/config.js";
-import { UsuariosModel } from '../models/usuarios.model.js';
+import "./config.js";
+import { UsuariosModel } from '../../../models/usuarios.model.js';
 
 class Usuarios {
     constructor () {

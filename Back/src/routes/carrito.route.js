@@ -1,6 +1,5 @@
 import express  from 'express';
 import auth from '../middle/auth.middle.js';
-import logger from '../utils/logger.js';
 import * as ordenesController from '../controllers/ordenes.controller.js';
 
 const router = express.Router();

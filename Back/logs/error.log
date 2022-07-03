@@ -1,0 +1,81 @@
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-03T14:23:19.232Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-03T14:23:19.238Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T15:19:07.524Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:15:05.147Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:16:13.859Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:17:24.187Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:19:09.663Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:19:53.990Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:22:46.727Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:23:24.739Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:24:39.296Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:25:30.790Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:26:03.912Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:26:59.541Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:27:14.924Z'
+}

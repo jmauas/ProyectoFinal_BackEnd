@@ -1,7 +1,8 @@
 
-import Orden from '../services/carrito.service.js';
+import Orden from '../services/DAO/ordenes.service.js';
+import logger from '../utils/logger.js';
 
-const orden = new Orden();
+const orden = Orden.initInstancia();
 
 export const getOrdenId = async (req, res) => {
     const { ...rest } = req.params;

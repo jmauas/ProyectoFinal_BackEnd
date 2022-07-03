@@ -591,3 +591,4525 @@
   level: 'info',
   timestamp: '2022-06-25T17:49:03.180Z'
 }
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T13:58:38.958Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T13:58:38.982Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T13:58:39.626Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Qdvg - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:22.503Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74QeC7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:23.659Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'MONROE 5372 7º B',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 24754389,\n' +
+    "  codPais: '54',\n" +
+    "  tel: '11-6252-4514',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$eBdmLGLD3rVJJFQYqXUaq.3b2xG0YtoglFzkXfakOMPRnPDu4AK/y',\n" +
+    "  img: 'logo512-1655751984245.png',\n" +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T14:15:25.393Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Qedu - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:25.436Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Qfs4 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:30.445Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Qh5E - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:35.508Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74QiKY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:40.627Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74QjaS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:15:45.700Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:17:27.182Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:27.217Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:28.391Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:17:41.773Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:41.803Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:42.290Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:54.195Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'MONROE 5372 7º B',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 24754389,\n' +
+    "  codPais: '54',\n" +
+    "  tel: '11-6252-4514',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$eBdmLGLD3rVJJFQYqXUaq.3b2xG0YtoglFzkXfakOMPRnPDu4AK/y',\n" +
+    "  img: 'logo512-1655751984245.png',\n" +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:55.594Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:17:56.039Z'
+}
+{
+  message: 'Get Productos/categoria/papeleria',
+  level: 'info',
+  timestamp: '2022-07-03T14:18:50.589Z'
+}
+{
+  message: 'Post Login/ Logut',
+  level: 'info',
+  timestamp: '2022-07-03T14:19:19.851Z'
+}
+{
+  message: 'Post SignUp/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'MONROE 5372 7º B',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 24754389,\n' +
+    "  codPais: '54',\n" +
+    "  tel: '11-6252-4514',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$eBdmLGLD3rVJJFQYqXUaq.3b2xG0YtoglFzkXfakOMPRnPDu4AK/y',\n" +
+    "  img: 'logo512-1655751984245.png',\n" +
+    '  __v: 0\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T14:20:10.514Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:20:10.720Z'
+}
+{
+  message: 'Get Productos/625b3a9fcf50f86f44a31920',
+  level: 'info',
+  timestamp: '2022-07-03T14:20:15.480Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:21:30.516Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:21:30.594Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:21:31.265Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:21:48.987Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:21:49.019Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:21:49.536Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:21:55.587Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:21:55.631Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:21:56.507Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:22:00.233Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:22:00.297Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:22:00.856Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:22:06.924Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:22:06.974Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:22:07.535Z'
+}
+{
+  message: [
+    'C:\\Program Files\\nodejs\\node.exe',
+    'D:\\CoderHouse\\Back\\ec_newmanag\\back\\src\\inicioSrv.js',
+    '8080'
+  ],
+  level: 'info',
+  timestamp: '2022-07-03T14:22:29.182Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T14:22:29.463Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T14:22:30.121Z'
+}
+{
+  message: 'Post Carrito/Usuario: {"_id":"62b0c583beae21ce8fca5ab4","username":"j@mauas.com.ar","nombre":"Jonatan","apellido":"Mauas","domicilio":"MONROE 5372 7º B","localidad":"CABA","provincia":"Ciudad Autónoma de Buenos Aires","email":"j@mauas.com.ar","dni":24754389,"codPais":"54","tel":"11-6252-4514","created_at":"2022-06-20T19:07:47.306Z","password":"$2b$10$eBdmLGLD3rVJJFQYqXUaq.3b2xG0YtoglFzkXfakOMPRnPDu4AK/y","img":"logo512-1655751984245.png","__v":0}\n' +
+    '                         - Carrito: [{"_id":"625b3a9fcf50f86f44a31920","nombre":"Vara Luminosa Color 50 CM","precio":357,"img":"/prods/vara-luminosa-color-50cm.jpg","categ":"reposteria","descrip":"Descripción detallada del producto que se esta listando en esta sección del e-commerce.","stock":81,"sku":"23","cantidad":4}]\n' +
+    '                         - Total: 1428 \n' +
+    '                         - Cantidad: 4',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:17.243Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-03T14:23:19.232Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-03T14:23:19.238Z'
+}
+{
+  message: 'MAIL ENVIADO A: j@estudiomq.com.ar CON:  - RESPUESTA: 250 2.0.0 OK  1656858200 w3-20020a056830280300b00618ca32d858sm3120033otu.25 - gsmtp',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:20.542Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:20.870Z'
+}
+{
+  message: 'Get Carrito/usuario/j@mauas.com.ar',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:23.416Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:39.697Z'
+}
+{
+  message: 'Get ProductosTest/',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:48.170Z'
+}
+{
+  message: 'Get Productos/categoria/distribucion',
+  level: 'info',
+  timestamp: '2022-07-03T14:23:59.519Z'
+}
+{
+  message: 'Get Productos/categoria/reposteria',
+  level: 'info',
+  timestamp: '2022-07-03T14:24:00.264Z'
+}
+{
+  message: 'Get Productos/categoria/papeleria',
+  level: 'info',
+  timestamp: '2022-07-03T14:24:00.997Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T14:24:02.095Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:24:02.748Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:25:00.259Z'
+}
+{
+  message: 'Post Login/ Error en Login',
+  level: 'info',
+  timestamp: '2022-07-03T14:25:03.995Z'
+}
+{
+  message: 'Post Login/ Error en Login',
+  level: 'info',
+  timestamp: '2022-07-03T14:25:10.379Z'
+}
+{
+  message: 'GET  - /api/subir/ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:25:22.032Z'
+}
+{
+  message: {
+    fieldname: 'myFile',
+    originalname: 'logoTT Epson.png',
+    encoding: '7bit',
+    mimetype: 'image/png',
+    destination: './public/subidas',
+    filename: 'logoTT-Epson-1656858349564.png',
+    path: 'public\\subidas\\logoTT-Epson-1656858349564.png',
+    size: 156674
+  },
+  level: 'info',
+  timestamp: '2022-07-03T14:25:49.570Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T14:25:49.727Z'
+}
+{
+  message: 'Post SignUp/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'MONROE 5372 7º B',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 24754389,\n' +
+    "  codPais: '54',\n" +
+    "  tel: '11-6252-4514',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$QpbhnFdhmhApLwfoV/qSSeEc308R051jvgF27qg5JWSDkIDk7d1mm',\n" +
+    "  img: 'logo512-1655751984245.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:20:10.458Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T14:26:04.654Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:26:04.856Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T14:26:33.697Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T14:26:35.448Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T14:26:35.637Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ts4U - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:29:26.989Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74TtiP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:29:33.622Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Tv4Y - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:29:39.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74TwYD - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:29:45.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ty05 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:29:51.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74TzTl - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:29:57.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74T-xc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:03.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U0PB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:09.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U1t0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:15.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U3Kr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:21.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U4oW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:27.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U6G9 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:33.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U7jz - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:39.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U9Bq - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:45.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UAfU - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:51.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UC79 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:30:57.254Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UDb4 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:03.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UF2n - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:09.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UGWf - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:15.274Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UH-H - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:21.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UJRx - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:27.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UKvp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:33.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UMNR - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:39.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UNrK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:45.314Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UPI- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:51.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UQmp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:31:57.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74USER - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:03.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UTiA - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:09.257Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UVA5 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:15.275Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UWdr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:21.276Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UY5X - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:27.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UZZK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:33.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ub10 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:39.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UcUh - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:45.259Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Udya - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:51.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UfQC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:32:57.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ugu6 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:03.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UiLm - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:09.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ujpa - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:15.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UlHB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:21.257Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Uml5 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:27.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UoCm - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:33.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UpgP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:39.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ur8F - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:45.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Usbw - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:51.285Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Uu3t - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:33:57.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UvXZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:03.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Uw_B - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:09.262Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74UyT3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:15.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Uzwk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:21.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74U_Od - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:27.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V0sD - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:33.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V2K7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:39.288Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V3nk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:45.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V5FT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:51.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V6jI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:34:57.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V8B7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:03.301Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V9es - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:09.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VB6T - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:15.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VCaE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:21.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VE24 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:27.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VFVo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:33.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VGzb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:39.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VIRB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:45.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VJu- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:51.262Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VLMe - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:35:57.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VMqS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:03.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VOIF - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:09.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VPlw - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:15.257Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VRDk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:21.277Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VShb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:27.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VU9M - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:33.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VVd2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:39.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VX4d - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:45.256Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VYYk - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:51.396Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Va16 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:36:57.341Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VbU1 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:03.378Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Vcxp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:09.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VePP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:15.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VftT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:21.297Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VhMT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:27.688Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Viot - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:33.294Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VkWE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:40.276Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Vlzr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:46.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VnRY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:52.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VovM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:37:58.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VqNM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:04.282Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Vrq- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:10.283Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VtI_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:16.754Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VumY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:22.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74VwE8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:28.314Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Vxhn - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:34.262Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Vz9Z - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:40.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74V-dR - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:46.293Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W059 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:52.282Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W1Z1 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:38:58.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W30e - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:04.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W4UV - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:10.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W5yF - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:16.274Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W7Pv - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:22.275Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W8tl - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:28.285Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WALK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:34.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WC9k - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:41.862Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WDWW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:47.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WE-G - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:53.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WGS0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:39:59.274Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WHvv - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:05.325Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WJNW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:11.285Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WKrI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:17.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WMJF - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:23.672Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WNmt - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:29.275Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WPEP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:35.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WQiG - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:41.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WS9w - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:47.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WTe0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:53.456Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WV5Z - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:40:59.282Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WWZK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:05.283Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WY0z - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:11.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WZUy - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:17.325Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wayb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:23.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WcQZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:29.299Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wdtx - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:35.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WfLo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:41.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WgpP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:47.275Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WiHB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:53.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wjl2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:41:59.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WlCo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:05.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WmgQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:11.256Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wo8I - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:17.277Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wpb_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:23.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wr3m - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:29.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WsXd - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:35.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wt_E - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:41.288Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WvT7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:47.281Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Wwwo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:53.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WyOZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:42:59.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74WzsL - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:43:05.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74W_K5 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:43:11.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74X0np - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:43:17.283Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74X2Fg - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:43:23.358Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74X3jI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:43:31.788Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XdA9 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:45:54.479Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xeai - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:00.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xg2G - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:06.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XhW9 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:12.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xizo - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:18.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XkRZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:24.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XlvR - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:30.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XnN7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:36.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xoq- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:42.276Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XqIf - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:48.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XrmG - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:46:54.253Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XtE8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:00.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xuhy - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:06.275Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xw9d - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:12.331Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74XxdH - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:18.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Xz55 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:24.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74X-Zh - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:30.368Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y00l - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:36.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y1UK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:42.283Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y2yB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:48.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y4Pp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:47:54.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y5tm - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:00.278Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y7LQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:06.283Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y8p6 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:12.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YAGx - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:18.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YBkb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:24.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YDCQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:30.320Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YEgC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:36.275Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YG7v - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:42.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YHbY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:48.259Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YJ3V - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:48:54.314Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YKXB - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:00.350Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YL-_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:06.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YNSd - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:12.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YOwT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:18.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YQOE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:24.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YRrq - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:30.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YTJj - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:36.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YUnQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:42.325Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YWF9 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:48.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YXj0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:49:54.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YZAY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:00.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YaeP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:06.283Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yc6D - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:12.274Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YdZ- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:18.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yf1Y - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:24.497Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YgVI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:30.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yhz7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:36.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YjQn - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:42.255Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ykuc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:48.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YmMQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:50:54.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ynq3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:00.257Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YpH_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:06.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yqlc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:12.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YsDT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:18.274Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yth4 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:24.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yv8y - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:30.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ywca - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:36.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Yy4O - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:42.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74YzY1 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:48.257Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Y-_t - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:51:54.262Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z0TX - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:00.259Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z1xS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:06.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z3P2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:12.254Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z4sz - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:18.271Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z6Kg - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:24.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z7oR - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:30.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z9G4 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:36.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZAjz - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:42.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZCBi - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:48.303Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZDfW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:52:54.318Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZF72 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:00.257Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZGa- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:06.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZI2d - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:12.262Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZJWT - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:18.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZK-D - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:24.267Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZMRy - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:30.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZNvj - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:36.280Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZPNI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:42.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZQr7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:48.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZSIv - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:53:54.265Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZTma - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:00.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZVEQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:06.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZWiR - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:12.286Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZY9y - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:18.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZZdc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:24.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zb5V - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:30.273Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZcZ5 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:36.260Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Ze10 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:42.290Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZfUZ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:48.263Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZgyO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:54:54.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZiQD - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:00.272Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zjty - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:06.293Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZlLb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:12.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZmpM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:18.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZoHA - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:24.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zpkz - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:30.268Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZrCc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:36.329Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZsgI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:42.259Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zu89 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:48.266Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zvfu - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:55:54.537Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zx3m - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:56:00.310Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74ZyYQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:56:06.586Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Zz_C - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:56:12.269Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74Z_S_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:56:18.282Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74a0wh - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:56:24.270Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O74a2OM - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T14:56:30.271Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T15:19:07.524Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:15:05.147Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:16:13.859Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:17:24.187Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:19:09.663Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:19:53.990Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:22:46.727Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:23:24.739Z'
+}
+{
+  code: 'ERR_DLOPEN_FAILED',
+  level: 'error',
+  timestamp: '2022-07-03T16:24:39.296Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:25:30.790Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:26:03.912Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:26:59.541Z'
+}
+{
+  code: 'SQLITE_ERROR',
+  level: 'error',
+  timestamp: '2022-07-03T16:27:14.924Z'
+}
+{
+  message: 'TABLAS CREADAS CON ÉXITO.',
+  level: 'info',
+  timestamp: '2022-07-03T16:29:46.925Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:43:58.349Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:43:59.006Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:43:59.009Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O75cV2v - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T19:46:49.161Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O75cVKU - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T19:46:50.277Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O75cVeI - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T19:46:51.542Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O75cWQX - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T19:46:54.759Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T19:46:55.739Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T19:46:55.969Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O75cXh0 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T19:46:59.937Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T19:47:03.623Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:49:07.038Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:49:07.626Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:49:07.628Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T19:49:49.606Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:01.531Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:02.250Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:02.252Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:09.892Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:10.873Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:10.875Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T19:52:14.215Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:55:07.118Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:55:07.669Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:55:07.671Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:56:44.957Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:56:45.776Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:56:45.779Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T19:56:49.324Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:57:01.731Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:57:02.315Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:57:02.317Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:17.089Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:17.740Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:17.742Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:24.797Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:25.390Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:25.394Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:31.266Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:31.801Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:31.803Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T19:59:51.566Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:00:53.581Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:00:54.125Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:00:54.127Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:01.129Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:01.887Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:01.890Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:11.699Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:12.249Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:12.250Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:16.276Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:16.842Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:16.843Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:47.634Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:48.153Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:48.155Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:57.135Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:57.851Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:01:57.853Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:06.405Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:06.989Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:06.991Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:21.565Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:22.136Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:22.140Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:41.522Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:42.085Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:02:42.087Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:09.414Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:10.574Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:10.576Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:24.132Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:24.692Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:24.694Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:31.109Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:31.640Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:03:31.641Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:17.795Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:18.383Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:18.386Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:30.334Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:31.100Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:31.101Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:38.242Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:40.866Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:41.126Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:41.601Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:54.214Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:55.215Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:04:55.217Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:05:25.904Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:05:26.510Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:05:26.511Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:48.618Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:49.216Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:49.218Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:53.259Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:53.919Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:53.922Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:57.220Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:57.760Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:06:57.762Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:02.643Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:03.633Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:03.635Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:12.887Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:15.093Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:15.939Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:15.940Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:32.633Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:33.175Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:33.177Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:41.062Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:41.904Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:41.906Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:46.215Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:46.840Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:46.841Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:49.314Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:49.890Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:49.891Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:58.351Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:58.925Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:07:58.926Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:14.679Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:15.203Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:15.205Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:21.740Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:22.270Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:22.271Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:30.826Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:31.391Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:08:31.393Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:09:03.341Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:09:04.110Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:09:04.113Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:09:08.345Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:09:08.894Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:09:08.897Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:11:52.285Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:11:52.876Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:11:52.878Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:10.113Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:10.655Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:10.659Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:13.654Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:14.541Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:14.543Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:24.975Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:25.516Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:25.519Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:29.560Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:30.099Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:30.100Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:32.735Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:33.251Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:33.252Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:38.520Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:39.062Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:39.065Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:44.211Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:44.740Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:44.742Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:57.099Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:57.693Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:12:57.696Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:06.567Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:09.002Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:09.564Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:09.566Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:11.807Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:15.639Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:16.168Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:16.169Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:20.697Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:21.222Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:13:21.224Z'
+}
+{
+  message: 'TABLAS CREADAS CON ÉXITO.',
+  level: 'info',
+  timestamp: '2022-07-03T20:20:43.057Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:20:43.640Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:00.281Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:01.216Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:01.218Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:26.899Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:27.940Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:27.942Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:39.804Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:43.695Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:45.159Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:45.507Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:45.765Z'
+}
+{
+  message: 'Get Productos/undefined',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:51.595Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:51.953Z'
+}
+{
+  message: 'Get Productos/undefined',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:55.912Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:34:56.202Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:35:12.165Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:35:12.723Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:35:12.725Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T20:35:20.993Z'
+}
+{
+  message: 'Get Productos/625b3a9fcf50f86f44a31923',
+  level: 'info',
+  timestamp: '2022-07-03T20:35:22.606Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:36:36.127Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:36:36.738Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:36:36.740Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:36:37.894Z'
+}
+{
+  message: 'Get Productos/undefined',
+  level: 'info',
+  timestamp: '2022-07-03T20:36:39.821Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:36:40.003Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:39:59.282Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:00.048Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:00.049Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:34.270Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:34.803Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:34.805Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:41.388Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:42.948Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:43.252Z'
+}
+{
+  message: 'Get Productos/3',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:44.303Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:44.578Z'
+}
+{
+  message: 'Get Productos/17',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:47.513Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:40:47.722Z'
+}
+{
+  message: 'Get Productos/1',
+  level: 'info',
+  timestamp: '2022-07-03T20:41:16.125Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:41:16.442Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:12.213Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:12.916Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:12.917Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:26.709Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:27.277Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:27.279Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:37.183Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:37.760Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:37.762Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:40.504Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:41.020Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:41.021Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:44.963Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:45.579Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:42:45.581Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:02.035Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:02.577Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:02.579Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:10.528Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:11.617Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:11.619Z'
+}
+{
+  message: 'Get Productos/32',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:20.035Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:20.445Z'
+}
+{
+  message: 'Get Productos/51',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:35.555Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:43:36.025Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:44:43.711Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:44:44.287Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:44:44.288Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:45:28.302Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:45:28.860Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:45:28.862Z'
+}
+{
+  message: 'Get Producto ID/23',
+  level: 'info',
+  timestamp: '2022-07-03T20:45:30.312Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:45:30.579Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:40.497Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:41.075Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:41.078Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:45.736Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:46.316Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:46.320Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:55.128Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:55.680Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:55.683Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:57.143Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:47:57.393Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:18.494Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:19.035Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:19.036Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:21.869Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:22.289Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:52.018Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:52.716Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:52.718Z'
+}
+{
+  message: 'Get Producto ID/1',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:53.684Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:48:54.024Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:14.305Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:14.838Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:14.840Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:30.217Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:30.797Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:30.800Z'
+}
+{
+  message: 'Get Producto ID/1',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:31.344Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:49:31.657Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:00.200Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:17.157Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:17.400Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:20.533Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:34.244Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:35.723Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:36.011Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:42.014Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:51:42.247Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:52:07.803Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:53:56.048Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:37.900Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:38.779Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:38.781Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:51.925Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:52.916Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:53.149Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T20:55:56.209Z'
+}
+{
+  message: 'Get Productos/categoria/distribucion',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:02.510Z'
+}
+{
+  message: 'Get Productos/categoria/papeleria',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:04.114Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:06.709Z'
+}
+{
+  message: 'Get Producto ID/51',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:08.294Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:40.278Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:40.892Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:56:40.893Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:57:08.615Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:57:09.240Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:57:09.242Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:57:09.797Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T20:57:11.345Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:06.560Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:07.225Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:07.226Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:16.508Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:17.056Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:17.059Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:21.363Z'
+}
+{
+  message: 'Get Producto ID/2',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:23.170Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T20:58:39.824Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T20:59:27.103Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:59:27.826Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T20:59:27.827Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:34.419Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:35.529Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:35.530Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:42.375Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:42.924Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:42.926Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:46.887Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:47.741Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:47.743Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:59.138Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:59.682Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:00:59.684Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:28.440Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:29.098Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:29.100Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:32.735Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:33.271Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:33.272Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:40.704Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:41.296Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:41.298Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:58.991Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:59.531Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:31:59.533Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:32:36.198Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:32:37.518Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:32:37.520Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:08.945Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:09.654Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:09.655Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:27.163Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:28.218Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:28.219Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:37.801Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:38.479Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:33:38.483Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:34:11.574Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:34:12.135Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:34:12.137Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:04.168Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:04.765Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:04.766Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:09.051Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:09.687Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:09.689Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:47.635Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:48.167Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:35:48.168Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:36:08.004Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:36:08.555Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:36:08.556Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:45:02.930Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:45:03.539Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:45:03.541Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T21:59:42.009Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T21:59:42.656Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T21:59:47.237Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T21:59:47.530Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:01:21.169Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:01:22.117Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T22:01:22.843Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T22:01:25.120Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T22:01:25.528Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:01:25.694Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:04:59.906Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:05:00.913Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:05:09.290Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:05:09.818Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:05:11.961Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:05:15.637Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:05:16.188Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:06:24.634Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:06:25.261Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:23.943Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:24.502Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:33.638Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:34.179Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:36.298Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:36.853Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:55.897Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:07:56.426Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:02.600Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:09.767Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:16.329Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:27.594Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:28.854Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:45.539Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:46.146Z'
+}
+{
+  message: 'Get Producto ID/3',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:50.651Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:54.198Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:54.511Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:08:54.777Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:09:08.633Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:12.172Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:12.858Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:23.800Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:27.498Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:28.094Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:39.042Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:10:39.603Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:00.728Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:05.985Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:06.533Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:14.378Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:15.155Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:23.580Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:24.156Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:50.221Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:11:50.809Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:13:59.071Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:13:59.735Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:22.711Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:23.275Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:38.674Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:39.275Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:41.964Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:42.513Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:50.233Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:53.064Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:22:53.613Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:11.565Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:16.087Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:16.710Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:23.688Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:24.363Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:35.896Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:36.415Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:23:57.815Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T22:24:00.710Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T22:24:00.951Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:24:06.619Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:25:54.205Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:25:54.842Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:25:57.596Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:25:58.162Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:26:41.574Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:26:42.172Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:28:24.750Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:28:54.011Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:31:55.600Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:31:56.142Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:33:18.752Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:33:22.745Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:33:23.299Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:33:26.133Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:33:26.703Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:36:36.771Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:36:37.388Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:37:25.211Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:37:25.767Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:39:07.593Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:39:08.360Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:39:24.672Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:39:25.222Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:42:46.222Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:42:46.894Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T22:42:52.862Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T22:42:53.158Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T22:43:57.573Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:46:54.351Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:46:54.944Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T22:47:00.451Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T22:47:02.188Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T22:47:02.447Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:47:02.801Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-03T22:48:10.815Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:48:20.933Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:48:36.161Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-03T22:48:37.968Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-03T22:48:38.234Z'
+}
+{
+  message: 'Get Productos/categoria/reposteria',
+  level: 'info',
+  timestamp: '2022-07-03T22:49:02.962Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:49:04.003Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:49:46.110Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:49:46.797Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:49:53.516Z'
+}
+{
+  message: 'GET  - /api/subir/ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-03T22:49:54.322Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-03T22:49:56.071Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-03T22:50:36.292Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-03T22:50:37.079Z'
+}

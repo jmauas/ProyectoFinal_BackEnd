@@ -1,6 +1,7 @@
-import Productos from '../services/productos.service.js';
+import Productos from '../services/DAO/productos.service.js';
+import logger from '../utils/logger.js';
 
-const prod = new Productos();
+let prod = Productos.initInstancia();
 
 export const getProds = async (req, res) => {
     logger.info(`Get Productos/`);
@@ -10,9 +11,8 @@ export const getProds = async (req, res) => {
 }
 
 export const getProd = async (req, res) => {
-    const { ...rest } = req.params;
-    const id = rest.id;
-    logger.info(`Get Productos/${id}`);
+    const id = req.params.id;
+    logger.info(`Get Producto ID/${id}`);
     prod.getById(id, p => {
         if(p===null){
             res.status(400).json({error: 'Producto No Encontrado.'})
@@ -25,7 +25,7 @@ export const getProd = async (req, res) => {
 export const getProdCat = async (req, res) => {
     const { ...rest } = req.params;
     const cat = rest.cat;
-    logger.info(`Get Productos/categoria/${cat}`);    
+    logger.info(`Get Productos/categoria/${cat}`);
     prod.getByCat(cat, p => {
         res.status(200).json(p);
     });

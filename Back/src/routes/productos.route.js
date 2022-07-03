@@ -1,11 +1,10 @@
 import express  from 'express';
 import auth from '../middle/auth.middle.js';
-import logger from '../utils/logger.js';
 import * as prodController from '../controllers/productos.controllers.js';
 
 const router = express.Router();
 
-router.get("/", auth, prodController.getProds);
+router.get("/", prodController.getProds);
 
 router.get("/:id", auth, prodController.getProd);
 

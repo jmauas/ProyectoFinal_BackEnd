@@ -1,6 +1,6 @@
-import "./Mongo/config.js";
-import { OrdenesModel, OrdenesModel_Items } from '../models/ordenes.model.js';
-import { mailNuevaVenta, smsNuevaVenta, wpNuevaVenta } from './notificacion.service.js';
+import "./config.js";
+import { OrdenesModel, OrdenesModel_Items } from '../../../models/ordenes.model.js';
+import { mailNuevaVenta, smsNuevaVenta, wpNuevaVenta } from '../../notificacion.service.js';
 
 class Ordenes {
     constructor () {
@@ -68,7 +68,7 @@ class Ordenes {
 
     async getByUs(us, res) {
         try {
-            let response = await OrdenesModel.find({mail: us});
+            let response = await OrdenesModel.find({email: us});
             const ordenes = [];
             for await (let i of response) {
                 const item = await OrdenesModel_Items.find({idOrden: i._id.valueOf()});

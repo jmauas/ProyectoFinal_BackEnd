@@ -1,7 +1,7 @@
-import Usuarios from '../\services\/usuarios.service.js';
+import Usuarios from '../services/DAO/usuarios.service.js';
 import logger from '../utils/logger.js';
 
-const usuarios = new Usuarios();
+const usuarios = Usuarios.initInstancia();
 
 export const modiUsuario = async (req, res) => {
     try {

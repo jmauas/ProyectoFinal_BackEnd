@@ -1,6 +1,6 @@
-import "./Mongo/config.js";
-import { ProductosModel } from '../models/productos.model.js';
-import logger from '../utils/logger.js';
+import "./config.js";
+import { ProductosModel } from '../../../models/productos.model.js';
+import logger from '../../../utils/logger.js';
 
 class Productos {
     constructor () {
@@ -10,6 +10,7 @@ class Productos {
         this.getByCat = this.getByCat.bind(this);
         this.getAll = this.getAll.bind(this);
         this.deleteById = this.deleteById.bind(this);
+        this.random = Math.random();
     }
 
     async save(producto, res) {
@@ -36,7 +37,6 @@ class Productos {
                     sku: producto.sku,
                     updated_at: producto.updated_at
             });
-            logger.info(response)
             res(response);
         } catch (err) {
             res(err)
@@ -45,7 +45,7 @@ class Productos {
 
     async getById(id, res) {
         try {
-            const response = await ProductosModel.findOne({_id: id});
+            const response = await ProductosModel.findOne({sku: id});
             res(response);
         } catch (err) {
             res(err)
@@ -57,14 +57,14 @@ class Productos {
             const response = await ProductosModel.find({categ: categoria});
             res(response);
         } catch (err) {
-            productos(err)
+            res(err)
         }
     }
 
     async getAll(res) {
         try {
             const response = await ProductosModel.find({});
-            res(response);
+            res({productos: response, random: this.random});
         } catch (err) {
             res(err)
         }
