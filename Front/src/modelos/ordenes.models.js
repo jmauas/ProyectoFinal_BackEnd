@@ -1,4 +1,4 @@
-import * as controladorC from '../\services\/ordenes.service.js';
+import * as controladorC from '../controlers/ordenes.controler.js';
 
 export const pedirOrdenes = (mail, res) => {
     controladorC.getByUs(mail, ordenes => res(ordenes))          

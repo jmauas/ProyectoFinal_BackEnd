@@ -17,7 +17,6 @@ export const Ordenes = () => {
 
     useEffect(() => {
         pedirOrdenes(usuario.email, (res) => {
-            console.log(res)
             setOrders(res);
         })       
     }, [setOrders, usuario.email])

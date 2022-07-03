@@ -26,7 +26,7 @@ export const getByCat = (categoria, productos) => {
 export const getAll = (all) => {
     AxiosMidle.get(`${server}/api/productos`)
     .then(res => {
-        all(res.data);
+        all(res.data.productos);
     })
     .catch(err => {
         console.log(err);
