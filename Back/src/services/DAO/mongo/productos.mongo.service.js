@@ -1,9 +1,11 @@
 import "./config.js";
 import { ProductosModel } from '../../../models/productos.model.js';
 import logger from '../../../utils/logger.js';
+import { ProductosDAO } from '../clasesDAO.js';
 
-class Productos {
+class Productos extends ProductosDAO {
     constructor () {
+        super();
         this.save = this.save.bind(this);
         this.modi = this.modi.bind(this);
         this.getById = this.getById.bind(this);
@@ -13,20 +15,21 @@ class Productos {
         this.random = Math.random();
     }
 
-    async save(producto, res) {
+    async save(producto) {
         try {
-            const response = await ProductosModel.create(producto);
-            res(response);
+            producto.created_at = new Date();
+            return  await ProductosModel.create(producto);
         } catch (err) {
-            logger.info(err)
+            logger.error(err);
+            return err;
         }
     }
 
-    async modi(producto, res) {
+    async modi(producto) {
         try {
             producto.updated_at = new Date();
             const response = await ProductosModel.updateOne(
-                {_id: producto._id},
+                {sku: producto.sku},
                 {
                     nombre: producto.nombre,
                     descrip: producto.descrip,
@@ -36,48 +39,48 @@ class Productos {
                     stock: producto.stock,
                     sku: producto.sku,
                     updated_at: producto.updated_at
-            });
-            res(response);
+                }
+            );
+            return producto;
         } catch (err) {
-            res(err)
+            return err;
         } 
     }
 
-    async getById(id, res) {
+    async getById(sku) {
         try {
-            const response = await ProductosModel.findOne({sku: id});
-            res(response);
+            return await ProductosModel.findOne({sku: sku});
         } catch (err) {
-            res(err)
+            return err;
         }
     }
 
-    async getByCat(categoria, res) {
+    async getByCat(categoria) {
         try {
-            const response = await ProductosModel.find({categ: categoria});
-            res(response);
+            return  await ProductosModel.find({categ: categoria});
         } catch (err) {
-            res(err)
+            return err;
         }
     }
 
-    async getAll(res) {
+    async getAll() {
         try {
             const response = await ProductosModel.find({});
-            res({productos: response, random: this.random});
+            return response;
         } catch (err) {
-            res(err)
+            console.log(err)
+            return err
         }
     }
 
-   async deleteById(id) {
-       try {
-        const response = await ProductosModel.deleteOne(
-            {_id: id}
-        );
-        res(response)
+    async deleteById(sku) {
+        try {
+            const response = await ProductosModel.deleteOne(
+                {sku: sku}
+            );
+            return response;
         } catch (err) {
-            res(err)
+            return err;
         }
     }
 }

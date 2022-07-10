@@ -1,8 +1,10 @@
 import "./config.js";
 import { UsuariosModel } from '../../../models/usuarios.model.js';
+import { UsuariosDAO } from '../clasesDAO.js';
 
-class Usuarios {
+class Usuarios extends UsuariosDAO {
     constructor () {
+        super();
         this.altaUsuario = this.altaUsuario.bind(this);
         this.modiUsuario = this.modiUsuario.bind(this);
         this.getById = this.getById.bind(this);

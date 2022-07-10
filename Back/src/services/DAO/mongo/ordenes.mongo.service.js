@@ -1,9 +1,11 @@
 import "./config.js";
 import { OrdenesModel, OrdenesModel_Items } from '../../../models/ordenes.model.js';
 import { mailNuevaVenta, smsNuevaVenta, wpNuevaVenta } from '../../notificacion.service.js';
+import { OrdenesDAO } from '../clasesDAO.js';
 
-class Ordenes {
+class Ordenes extends OrdenesDAO{
     constructor () {
+        super();
         this.generarOrden = this.generarOrden.bind(this);
         this.getById = this.getById.bind(this);
         this.getByUs = this.getByUs.bind(this);

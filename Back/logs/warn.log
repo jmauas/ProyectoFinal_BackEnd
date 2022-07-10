@@ -5113,3 +5113,3714 @@
   level: 'info',
   timestamp: '2022-07-03T22:50:37.079Z'
 }
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-04T16:02:53.946Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-04T16:02:54.946Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zDI1 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:34.574Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:04:34.825Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zDiS - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:36.256Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zERP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:39.264Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zFh3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:44.359Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zGwb - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:49.452Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-04T16:04:52.461Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-04T16:04:52.831Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zIA6 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:54.539Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zJQ8 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:04:59.664Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zKg1 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:04.776Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zLvr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:09.885Z'
+}
+{
+  message: 'Get Producto ID/17',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:13.492Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zN9T - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:14.979Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zOO- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:20.066Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zPeY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:25.158Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:29.019Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zQt- - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:30.244Z'
+}
+{
+  message: 'Get Producto ID/51',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:30.840Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zS7g - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:35.343Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zTN4 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:40.425Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:44.527Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zUcz - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:45.543Z'
+}
+{
+  message: 'Get Productos/categoria/papeleria',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:47.581Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zVsm - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:50.648Z'
+}
+{
+  message: 'Get Productos/categoria/reposteria',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:53.339Z'
+}
+{
+  message: 'Get Productos/categoria/distribucion',
+  level: 'info',
+  timestamp: '2022-07-04T16:05:55.389Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zX6W - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:05:55.747Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zYMi - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:00.884Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zZcN - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:05.985Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zasr - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:11.130Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zc6P - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:16.223Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zdLx - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:21.315Z'
+}
+{
+  message: 'Post Carrito/Usuario: {"_id":"62b0c583beae21ce8fca5ab4","username":"j@mauas.com.ar","nombre":"Jonatan","apellido":"Mauas","domicilio":"aaadvfdvgfdvfdbtd","localidad":"CABA","provincia":"Ciudad Autónoma de Buenos Aires","email":"j@mauas.com.ar","dni":33333333,"codPais":"376","tel":"01152637675","created_at":"2022-06-20T19:07:47.306Z","password":"$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK","img":"logoTT-Epson-1656858349564.png","__v":0,"updated_at":"2022-07-03T14:26:04.603Z"}\n' +
+    '                         - Carrito: [{"_id":"625b3a9fcf50f86f44a3191d","nombre":"Codeland Relleno Nougat 500 Grs.","precio":70,"img":"/prods/codeland-relleno-nougat-500grs.jpg","categ":"reposteria","descrip":"Descripción detallada del producto que se esta listando en esta sección del e-commerce.","stock":100,"sku":"17","cantidad":3},{"_id":"625b3a9fcf50f86f44a31925","nombre":"Gorro Egresado Plástico X1","precio":341,"img":"/prods/gorro-egresado-plastico-x1.jpg","categ":"cotillon","descrip":"Descripción detallada del producto que se esta listando en esta sección del e-commerce.","stock":6778,"sku":"51","cantidad":3}]\n' +
+    '                         - Total: 1233 \n' +
+    '                         - Cantidad: 6',
+  level: 'info',
+  timestamp: '2022-07-04T16:06:21.555Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-04T16:06:23.809Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-04T16:06:23.824Z'
+}
+{
+  message: 'MAIL ENVIADO A: j@estudiomq.com.ar CON:  - RESPUESTA: 250 2.0.0 OK  1656950785 q15-20020a1f2a0f000000b00370a1dab940sm3196472vkq.36 - gsmtp',
+  level: 'info',
+  timestamp: '2022-07-04T16:06:25.249Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zebY - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:26.408Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:06:26.466Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zfr2 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:31.494Z'
+}
+{
+  message: 'Get ProductosTest/',
+  level: 'info',
+  timestamp: '2022-07-04T16:06:33.820Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zh4V - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:36.580Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79ziK7 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:41.790Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:06:42.915Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zjbQ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:46.881Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zkrq - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:52.068Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zm62 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:06:57.163Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79znLj - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:02.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zobK - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:07.355Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zprC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:12.464Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zr4s - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:17.563Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zsKa - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:22.665Z'
+}
+{
+  message: 'Get Producto ID/2',
+  level: 'info',
+  timestamp: '2022-07-04T16:07:26.288Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79ztZ_ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:27.750Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:07:28.367Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zupa - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:32.841Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zw39 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:37.938Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zxLp - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:43.229Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zybP - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:48.318Z'
+}
+{
+  message: 'Get Carrito/usuario/j@mauas.com.ar',
+  level: 'info',
+  timestamp: '2022-07-04T16:07:52.533Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79zzqy - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:53.409Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79z_EC - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:07:59.123Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-0Tm - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:04.216Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-1jL - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:09.309Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-04T16:08:13.327Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-2zA - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:14.416Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-4Cj - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:19.508Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-5SO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:24.608Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-6iE - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:29.717Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-7z3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:34.890Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-9CW - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:39.972Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-ARv - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:45.056Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-BhO - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:50.141Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-CxJ - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:08:55.258Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-EP3 - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:09:01.261Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-FuN - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:09:07.430Z'
+}
+{
+  message: 'GET  - /socket.io/?EIO=4&transport=polling&t=O79-HKc - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-04T16:09:13.258Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T20:14:01.410Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T20:14:01.990Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T21:50:19.978Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T21:50:20.905Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:30.658Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:31.774Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:33.961Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:34.557Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:37.174Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:37.972Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:42.383Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:42.976Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:53.039Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:40:53.612Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:41:13.314Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:41:14.379Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:44:44.826Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:44:45.418Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-09T22:45:15.626Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-09T22:45:24.729Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:07.759Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:08.344Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:11.592Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:16.740Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:17.607Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:20.580Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:21.681Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:30.490Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:31.138Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:33.942Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:34.833Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:40.159Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:41.430Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:53.969Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:47:54.633Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:00.321Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:00.950Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:17.608Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:18.755Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:32.272Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:33.493Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:47.257Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:48.283Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-09T22:48:55.003Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:51:39.983Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:51:41.163Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-09T22:51:46.827Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:52:52.626Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:52:53.861Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T22:53:06.272Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T22:53:07.181Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-09T23:39:29.519Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:43:27.886Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:43:28.614Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:44:00.677Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:44:01.284Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-09T23:44:06.936Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:48:53.878Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:48:54.537Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:49:31.533Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:49:32.989Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:49:40.730Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:49:41.318Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-09T23:50:49.133Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:51:24.460Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:51:26.005Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:52:07.039Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:52:08.154Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:52:51.173Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:52:52.086Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:53:35.343Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:53:35.970Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:23.016Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:23.664Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:28.206Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:28.798Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:34.634Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:36.004Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:56.913Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:55:57.808Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:57:20.659Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:57:22.141Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:59:43.940Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:59:44.677Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-09T23:59:46.838Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-09T23:59:47.443Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:21.470Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:22.718Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:25.833Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:26.690Z'
+}
+{
+  message: 'error ReferenceError: whiteList is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:01:29.522Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:30.630Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:37.134Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:01:38.308Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:02:25.039Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:02:26.526Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:03:46.566Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:03:47.992Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:11.953Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:06:12.642Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:21.333Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:06:21.927Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:25.713Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:06:26.558Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:32.604Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:06:33.226Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:42.896Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:06:43.531Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:46.836Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:06:47.555Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:34.611Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:07:35.828Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:42.729Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:07:43.372Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:48.373Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:55.601Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:08:13.806Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:08:14.990Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:10:08.748Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:10:09.789Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:11:17.935Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:11:19.485Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:11:24.596Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:11:25.774Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:12:02.286Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:12:02.933Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:12:58.112Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:12:59.733Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:05.667Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:14:06.992Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:33.986Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:14:34.597Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:37.961Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:14:39.080Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:45.892Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:14:47.058Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:15:28.779Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:15:29.467Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:15:49.356Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:15:50.547Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:16:29.018Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:16:29.911Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:17:46.254Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:19.665Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:18:20.661Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:27.921Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:18:28.755Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:18:32.631Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:18:33.221Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:52.233Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:18:52.871Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:08.973Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:19:10.410Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:22.612Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:19:23.932Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:39.532Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:19:40.694Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:47.425Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:19:48.113Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:01.764Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:02.853Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:08.715Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:09.359Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:15.374Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:16.966Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:20:21.891Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:07.623Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:09.204Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:10.729Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:27.470Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:28.343Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:29.818Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:45.097Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:46.002Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:21:48.014Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:22:20.959Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:22:21.666Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:22:25.065Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:22:25.937Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:23:12.838Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:23:13.432Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:23:17.135Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:25:24.062Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:27:10.603Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:09.602Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:10.750Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:13.585Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:14.180Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:16.326Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:16.973Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:21.039Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:21.659Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:26.672Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:27.272Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:32.656Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:34.006Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:37.301Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:38.051Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:40.491Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:41.137Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:46.292Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:47.770Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:50.165Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:51.078Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:54.700Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:55.326Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:28:58.729Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:00.115Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:05.661Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:06.290Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:09.567Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:12.208Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:14.422Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:17.694Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:20.564Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:21.695Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:25.639Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:26.244Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:39.763Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:41.389Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:43.967Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:29:44.553Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:30:49.656Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:30:50.371Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:30:53.173Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:30:54.137Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:07.398Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:07.983Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:18.133Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:19.246Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:38.113Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:42.377Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:43.237Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:56.905Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:31:57.753Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:00.455Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:01.115Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:13.409Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:15.845Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:17.003Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:32.327Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:40.511Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:41.890Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:48.902Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:49.570Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:54.128Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:32:55.061Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:33:12.041Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:33:12.713Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:33:21.794Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:33:22.475Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:37.680Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:38.405Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.704Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.707Z'
+}
+{
+  errors: {
+    created_at: ValidatorError: Path `created_at` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaDate.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `created_at` is required.',
+        type: 'required',
+        path: 'created_at',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'created_at',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Productos validation failed',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.720Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:44:57.725Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T00:44:57.857Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.868Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.882Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.883Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:44:57.884Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.889Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T00:44:57.898Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.256Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.257Z'
+}
+{
+  errors: {
+    created_at: ValidatorError: Path `created_at` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaDate.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `created_at` is required.',
+        type: 'required',
+        path: 'created_at',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'created_at',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Productos validation failed',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.260Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:45:52.263Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T00:45:52.352Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.359Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.364Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.365Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:45:52.367Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.371Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T00:45:52.376Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:46:16.670Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-10T00:46:17.142Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:46:50.089Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:50:38.747Z'
+}
+{
+  message: 'Post Productos/ Producto: {} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:50:38.748Z'
+}
+{
+  errors: {
+    created_at: ValidatorError: Path `created_at` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaDate.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `created_at` is required.',
+        type: 'required',
+        path: 'created_at',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'created_at',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    nombre: ValidatorError: Path `nombre` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaString.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `nombre` is required.',
+        type: 'required',
+        path: 'nombre',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'nombre',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    descrip: ValidatorError: Path `descrip` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaString.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `descrip` is required.',
+        type: 'required',
+        path: 'descrip',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'descrip',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    categ: ValidatorError: Path `categ` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaString.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `categ` is required.',
+        type: 'required',
+        path: 'categ',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'categ',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    precio: ValidatorError: Path `precio` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaNumber.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `precio` is required.',
+        type: 'required',
+        path: 'precio',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'precio',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    stock: ValidatorError: Path `stock` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaNumber.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `stock` is required.',
+        type: 'required',
+        path: 'stock',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'stock',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    },
+    sku: ValidatorError: Path `sku` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaString.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `sku` is required.',
+        type: 'required',
+        path: 'sku',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'sku',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Productos validation failed',
+  level: 'info',
+  timestamp: '2022-07-10T00:50:38.754Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:50:38.766Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:55:37.937Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:55:37.938Z'
+}
+{
+  errors: {
+    created_at: ValidatorError: Path `created_at` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaDate.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `created_at` is required.',
+        type: 'required',
+        path: 'created_at',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'created_at',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Productos validation failed',
+  level: 'info',
+  timestamp: '2022-07-10T00:55:37.941Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:55:37.944Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T00:57:24.849Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T00:57:25.831Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T00:57:52.715Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T00:57:52.717Z'
+}
+{
+  errors: {
+    created_at: ValidatorError: Path `created_at` is required.
+        at validate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1330:13)
+        at SchemaDate.SchemaType.doValidate (D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\schematype.js:1314:7)
+        at D:\CoderHouse\Back\ec_newmanag\back\node_modules\mongoose\lib\document.js:2751:18
+        at processTicksAndRejections (node:internal/process/task_queues:78:11) {
+      properties: {
+        validator: [Function (anonymous)],
+        message: 'Path `created_at` is required.',
+        type: 'required',
+        path: 'created_at',
+        value: undefined
+      },
+      kind: 'required',
+      path: 'created_at',
+      value: undefined,
+      reason: undefined,
+      [Symbol(mongoose:validatorError)]: true
+    }
+  },
+  _message: 'Productos validation failed',
+  level: 'info',
+  timestamp: '2022-07-10T00:57:52.731Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T01:01:02.512Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T01:01:04.096Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:01:07.306Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:01:07.308Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T01:02:02.212Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T01:02:02.915Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:02:05.889Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:02:05.892Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:03:38.823Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:03:38.825Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:04:42.051Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:04:42.053Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.496Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.497Z'
+}
+{
+  message: 'Put Productos/ Producto: {} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.843Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.857Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.859Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:08:18.860Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.863Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:18.873Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:28.918Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:28.919Z'
+}
+{
+  message: 'Put Productos/ Producto: {} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:29.262Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:29.269Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:29.270Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:08:29.271Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:29.276Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T01:08:29.281Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T01:12:52.145Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T01:12:52.181Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:12:52.186Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T01:12:52.188Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:12:52.189Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T01:12:52.193Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T01:12:52.196Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:05:56.075Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:05:56.223Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:05:56.229Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:05:56.230Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:05:56.230Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:05:56.234Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:05:56.237Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:07:03.014Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:07:03.015Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:07:02.993Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:07:03.165Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:07:03.170Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:07:03.171Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:07:03.172Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:07:03.175Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:09:34.993Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:09:34.994Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:09:34.965Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:09:35.253Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:09:35.258Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:12:25.914Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:12:27.151Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:13:30.627Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:13:30.839Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:13:30.860Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:14:14.879Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:14:15.830Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:14:45.466Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:14:48.594Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:14:49.218Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:15:02.675Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:15:02.725Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:15:02.739Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:17:55.252Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:17:56.944Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:18:13.387Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:18:13.437Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:18:42.275Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:18:43.927Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:18:56.140Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:18:56.182Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:19:21.525Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:19:22.547Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:20:56.514Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:20:56.557Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:21:45.529Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:21:45.561Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:27:21.974Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:27:21.999Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:27:55.369Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:29.969Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:29.970Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:28:29.946Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:30.386Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:30.751Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:30.753Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:28:30.756Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:30.958Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:28:31.369Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:02.887Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:03.874Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:06.682Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:06.683Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:29:06.640Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:06.932Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:07.147Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:07.148Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:07.149Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:07.217Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:07.459Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.089Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.097Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:29:17.061Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.333Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.562Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.570Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:17.572Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.652Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:17.897Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:45.510Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:45.512Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:29:45.484Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:45.745Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:45.956Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:45.957Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:45.958Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:46.046Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:29:46.257Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:30:48.454Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:31:48.442Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:31:48.443Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:31:48.444Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:31:48.525Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:33:06.737Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:33:08.182Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:33:24.362Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:33:24.363Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:33:24.365Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:34:50.403Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:34:52.077Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:34:54.563Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:34:54.564Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:35:13.016Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:35:49.193Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:35:49.779Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:35:52.411Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:07.168Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:08.505Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:09.534Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:10.538Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:11.289Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:11.717Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:12.158Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:12.594Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:13.130Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:13.570Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:14.029Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:14.478Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:14.924Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:15.353Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:15.809Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:16.265Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:16.696Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:17.129Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:17.565Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:18.009Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:18.448Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:18.893Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:19.347Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:19.804Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:20.243Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:20.736Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:21.869Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:22.324Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:22.787Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:23.272Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:23.751Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:24.226Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:38.492Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:39.551Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:40.227Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:40.794Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:41.385Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:41.950Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:42.485Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:43.003Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:43.484Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:36:43.953Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:04.600Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:04.600Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:04.680Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:46.428Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:46.429Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:46.492Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:49.159Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:49.160Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:49.225Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:52.224Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:52.225Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:52.364Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:53.648Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:53.649Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:53.742Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:55.024Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:55.025Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:55.091Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:56.566Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:56.566Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:56.633Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:58.705Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:58.706Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:38:58.791Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:00.159Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:00.159Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:00.226Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:03.892Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:03.893Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:04.051Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:42.270Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:39:43.750Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:40:38.936Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:40:38.938Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:40:47.037Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:40:47.038Z'
+}
+{
+  message: 'Delete Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:41:03.492Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:41:03.493Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:41:03.560Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:43:02.926Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:43:04.198Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:44:57.321Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:44:58.894Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:45:07.807Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:45:08.934Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:45:23.901Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:45:25.022Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:45:36.664Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:45:37.523Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:46:29.511Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:00.484Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:01.190Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:04.340Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:05.466Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:11.609Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:12.237Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:17.111Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:17.720Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:19.175Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:39.256Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:39.662Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:39.929Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:47.617Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:56.202Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:56.441Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:47:57.552Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:48:17.328Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:20.112Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:20.947Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:24.358Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:25.010Z'
+}
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:33.581Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:34.437Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:36.759Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:36.760Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"Cotillón","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:49:36.723Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:36.923Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:37.058Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:37.184Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:49:37.334Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:51:25.260Z'
+}
+{
+  message: 'Get Productos/categoria/Cotillón',
+  level: 'info',
+  timestamp: '2022-07-10T02:52:06.389Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T02:53:41.994Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:08.162Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:56.580Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:56.585Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:54:56.560Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:56.722Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:56.845Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:56.965Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T02:54:57.088Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:57:41.740Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:57:41.741Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T02:57:41.720Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T02:57:41.873Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T02:57:41.996Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T02:57:42.109Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T02:57:42.239Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:29.621Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:29.624Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:29.755Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T03:01:29.601Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:29.761Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:30.219Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:30.350Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T03:01:30.481Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.336Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.339Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.478Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T03:02:35.315Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.490Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.608Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.729Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:35.896Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:54.868Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:54.869Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:54.992Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T03:02:54.843Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:55.126Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:55.252Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:55.367Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T03:02:55.491Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.034Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.041Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.170Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T03:04:31.009Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.305Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.457Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.579Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T03:04:31.698Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:29.419Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:29.420Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:29.540Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T03:08:29.395Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:29.657Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:29.784Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:29.908Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:30.039Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T03:08:30.159Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:48:32.269Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:48:32.431Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:48:32.433Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:49:10.510Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:49:10.637Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:49:10.638Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:50:38.841Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:50:38.970Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:50:38.971Z'
+}
+{
+  message: 'Post Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:29.756Z'
+}
+{
+  message: 'Post Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del nuevo Producto","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18} - \n' +
+    '                                        ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:29.757Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:29.873Z'
+}
+{
+  message: 'Put Productos/ Producto: {"categ":"cotillon","descrip":"Descripcion larga del Nuevo Producto","nombre":"Nombre del Producto ya Modificado","img":"https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png","precio":152,"sku":"652","stock":18,"created_at":"2022-07-10T03:52:29.728Z"} - \n' +
+    '                                    ID: [object Object]',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:29.995Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:30.117Z'
+}
+{
+  message: 'Delete Productos/ ID: 652',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:30.241Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:30.368Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-10T03:52:30.487Z'
+}

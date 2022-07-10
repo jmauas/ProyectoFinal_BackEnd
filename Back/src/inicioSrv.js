@@ -11,12 +11,10 @@ const options = {
 }
 const arg = minimist(process.argv.slice(2), options);
 const PORT = arg.port || 8080;
-(async () => {
-  try {
-    const server = new Server(PORT)
-    await server.start()
-    await server.listen()
-  } catch (error) {
-    logger.error(`error ${error}`)
-  }
-})();
+try {
+  const server = new Server(PORT)
+  await server.start()
+  await server.listen()
+} catch (error) {
+  logger.error(`error ${error}`)
+}

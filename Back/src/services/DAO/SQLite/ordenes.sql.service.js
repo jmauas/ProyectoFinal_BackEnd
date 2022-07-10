@@ -1,9 +1,11 @@
 import { config } from "./configSqLite.js";
 import knex1 from 'knex';
 import { mailNuevaVenta, smsNuevaVenta, wpNuevaVenta } from '../../notificacion.service.js';
+import { OrdenesDAO } from '../clasesDAO.js';
 
-class Ordenes {
+class Ordenes extends OrdenesDAO {
     constructor () {
+        super();
         this.knex = knex1(config);
     }
 

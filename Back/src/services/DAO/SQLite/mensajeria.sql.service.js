@@ -1,8 +1,10 @@
 import { config } from "./configSqLite.js";
 import knex1 from 'knex';
+import { MensajeriaDAO } from '../clasesDAO.js';
 
-class Mensajes {
+class Mensajes extends MensajeriaDAO {
     constructor () {
+        super();
         this.knex = knex1(config);
     }
 

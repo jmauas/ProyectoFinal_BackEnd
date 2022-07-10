@@ -2,9 +2,11 @@ import "./config.js";
 import { MensajesModel } from '../../../models/mensajes.model.js';
 import { faker } from '@faker-js/faker';
 import logger from '../../../utils/logger.js';
+import { MensajeriaDAO } from '../clasesDAO.js';
 
-class Mensajes {
+class Mensajes extends MensajeriaDAO {
     constructor () {
+        super();
         this.guardarYMostrar = this.guardarYMostrar.bind(this);
     }
 

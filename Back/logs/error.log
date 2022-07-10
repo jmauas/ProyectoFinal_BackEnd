@@ -79,3 +79,254 @@
   level: 'error',
   timestamp: '2022-07-03T16:27:14.924Z'
 }
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-04T16:06:23.809Z'
+}
+{
+  status: 400,
+  code: 21211,
+  moreInfo: 'https://www.twilio.com/docs/errors/21211',
+  details: undefined,
+  level: 'error',
+  timestamp: '2022-07-04T16:06:23.824Z'
+}
+{
+  message: 'error ReferenceError: whiteList is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:01:29.522Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:11.953Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:21.333Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:25.713Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:32.604Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:42.896Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:06:46.836Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:34.611Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:42.729Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:48.373Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:07:55.601Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:08:13.806Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:10:08.748Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:11:17.935Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:11:24.596Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:12:02.286Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:12:58.112Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:05.667Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:33.986Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:37.961Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:14:45.892Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:15:28.779Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:15:49.356Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:19.665Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:27.921Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:18:52.233Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:08.973Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:22.612Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:39.532Z'
+}
+{
+  message: "error TypeError: Cannot read properties of undefined (reading 'on')",
+  level: 'error',
+  timestamp: '2022-07-10T00:19:47.425Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:44:57.725Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:44:57.884Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:45:52.263Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:45:52.367Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:50:38.766Z'
+}
+{
+  message: 'Post Productos - Error: ReferenceError: news is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T00:55:37.944Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:08:18.860Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:08:29.271Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T01:12:52.189Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:05:56.230Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:07:03.172Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:28:30.756Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:07.149Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:17.572Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:29:45.958Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:31:48.444Z'
+}
+{
+  message: 'Delete Productos - Error: ReferenceError: id is not defined',
+  level: 'error',
+  timestamp: '2022-07-10T02:33:24.365Z'
+}

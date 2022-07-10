@@ -1,9 +1,11 @@
 import { config } from "./configSqLite.js";
 import knex1 from 'knex';
 const knex = knex1(config);
+import { UsuariosDAO } from '../clasesDAO.js';
 
-class Usuarios {
+class Usuarios extends UsuariosDAO {
     constructor () {
+        super();
         this.knex = knex1(config);
     }
 

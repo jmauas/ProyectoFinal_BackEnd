@@ -37,9 +37,12 @@ class Server {
    }
    async listen() {
       this.server = http.createServer(this.app);
-      this.server.listen(this.port, () => {
-         logger.info(`Servidor Escuchando Y Listo en http://localhost:${this.port}`)
-      });     
+      const srv = this.server.listen(this.port, () => {
+          logger.info(`Servidor Escuchando Y Listo en http://localhost:${this.port}`)
+       });  
+      srv.on('error', (error) => {
+         logger.error('ERROR EN EL SERVER', error);
+      });    
    }
    async start() {          
       this.app.use(compression());
@@ -62,6 +65,7 @@ class Server {
       });
       const whiteList = ['http://localhost:3000']
       this.app.use(cors({origin: whiteList}));
+      //this.app.use(cors());
 
       this.app.use(session({
          store: mongoStore.create({
@@ -118,6 +122,10 @@ class Server {
       this.app.use('*', (req, res) => {
          logger.warn(`${req.method}  - ${req.originalUrl} - INEXISTENTE.`);
          res.status(400).json({descripcion: `Ruta ${req.originalUrl} Inexistente.`});
+      });
+
+      this.app.on('error', (error) => {
+         logger.error(error);
       });
    }
 }

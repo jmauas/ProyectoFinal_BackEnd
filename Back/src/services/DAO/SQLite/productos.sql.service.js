@@ -1,28 +1,28 @@
 import { config } from "./configSqLite.js";
 import knex1 from 'knex';
+import { ProductosDAO } from '../clasesDAO.js';
 
-
-class Productos {
+class Productos extends ProductosDAO {
     constructor () {
+        super();
         this.knex = knex1(config);
-        this.random = Math.random();
     }
 
-    async save(producto, res) {
+    async save(producto) {
         try {
             producto.created_at = new Date();
             producto.id = await this.knex('productos').returning('id')
                                     .insert(producto);
-            res(producto);
+            return producto;
         } catch (err) {
-            res(err)
+            return err;
         }
     }
 
-    async modi(producto, res) {
+    async modi(producto) {
         try {
             producto.updated_at = new Date();
-            await this.knex('productos').where('id', producto.id)
+            await this.knex('productos').where('sku', producto.sku)
                 .update({
                     nombre: producto.nombre,
                     descrip: producto.descrip,
@@ -33,43 +33,44 @@ class Productos {
                     sku: producto.sku,
                     updated_at: producto.updated_at
                 });
-            res(producto);
+            return producto;
         } catch (err) {
-            res(err)
+            return err;
         } 
     }
 
-    async getById(id, producto) {
+    async getById(sku) {
         try {
-            const prod = await this.knex.select().from('productos').where('sku', id);
-            producto(prod[0]);
+            const prod = await this.knex.select().from('productos').where('sku', sku);
+            return prod[0];
         } catch (err) {
-            producto(err)
+            return err;
         }
     }
 
-    async getByCat(categoria, productos) {
+    async getByCat(categoria) {
         try {
             const prods = await this.knex.select().from('productos').where('categ', categoria);
-            productos(prods);
+            return prods;
         } catch (err) {
-            productos(err)
+            return err;
         }
     }
 
-    async getAll(all) {
+    async getAll() {
         try {
             const prods = await this.knex.select().from('productos');
-            all({productos: prods, random: this.random});
+            return prods;
         } catch (err) {
-            all(err)
+            return err;
         }
     }
 
-   async deleteById(id) {
+   async deleteById(sku) {
        try {
-            await this.knex('productos').where('id', id)
+            await this.knex('productos').where('sku', sku)
                 .del();
+            return '';
         } catch (err) {
             console.log(err)
         }

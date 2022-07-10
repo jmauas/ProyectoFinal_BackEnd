@@ -4,16 +4,22 @@ import * as prodController from '../controllers/productos.controllers.js';
 
 const router = express.Router();
 
+// router.get("/", auth, prodController.getProds);
 router.get("/", prodController.getProds);
 
-router.get("/:id", auth, prodController.getProd);
+router.get("/:sku", prodController.getProd);
+// router.get("/:sku", auth, prodController.getProd);
 
-router.get("/categoria/:cat", auth, prodController.getProdCat);
+router.get("/categoria/:cat", prodController.getProdCat);
+// router.get("/categoria/:cat", auth, prodController.getProdCat);
 
-router.post("/", auth, prodController.nuevoProd);
+router.post("/", prodController.nuevoProd);
+// router.post("/", auth, prodController.nuevoProd);
 
-router.put("/:id", auth, prodController.modiProd);
+router.put("/:sku", prodController.modiProd);
+// router.put("/:sku", auth, prodController.modiProd);
 
-router.delete("/:id", auth, prodController.borrarProd);
+router.delete("/:sku", prodController.borrarProd);
+// router.delete("/:sku", auth, prodController.borrarProd);
 
 export default router;

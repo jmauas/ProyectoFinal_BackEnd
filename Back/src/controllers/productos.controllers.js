@@ -1,100 +1,79 @@
 import Productos from '../services/DAO/productos.service.js';
 import logger from '../utils/logger.js';
+import ProductosDTO from '../services/DTO/productos.DTO.js';
 
 let prod = Productos.initInstancia();
 
 export const getProds = async (req, res) => {
     logger.info(`Get Productos/`);
-    prod.getAll(p => {
-        res.status(200).json(p);
-    });
+    let prods = await prod.getAll();
+    prods = prods.map((p) => ProductosDTO(p));
+    res.status(200).json(prods);   
 }
 
 export const getProd = async (req, res) => {
-    const id = req.params.id;
-    logger.info(`Get Producto ID/${id}`);
-    prod.getById(id, p => {
-        if(p===null){
-            res.status(400).json({error: 'Producto No Encontrado.'})
-        } else {
-            res.status(200).json(p);
-        }
-    });       
+    const sku = req.params.sku;
+    logger.info(`Get Producto ID/${sku}`);
+    const produc = await prod.getById(sku);
+    if(produc===null){
+        res.status(400).json({error: 'Producto No Encontrado.'})
+    } else {
+        res.status(200).json(ProductosDTO(produc));
+    }    
 };
 
 export const getProdCat = async (req, res) => {
     const { ...rest } = req.params;
     const cat = rest.cat;
     logger.info(`Get Productos/categoria/${cat}`);
-    prod.getByCat(cat, p => {
-        res.status(200).json(p);
-    });
+    const produc = await prod.getByCat(cat)
+    const prods = produc.map((p) => ProductosDTO(p));
+    res.status(200).json(prods);
 };
 
 export const nuevoProd = async (req, res) => {
-    let admin = req.query.admin;
-    logger.info(`Post Productos/ ${admin}`);
-    if (admin!=true) {
-        res.status(400).json({error: 400, descripción: 'Ruta Productos Mètodo Post NO Autorizado'});
-    } else {
-        try {            
-            const { categ, descrip, nombre, img, precio, sku, stock } = req.body;
-            const productoNuevo = {
-                categ,
-                descrip,
-                nombre,
-                img,
-                precio, 
-                sku, 
-                stock
-            }
-            logger.info(`Post Productos/ Producto: ${JSON.stringify(productoNuevo)} - 
-                                         ID: ${prod}`);
-            prod.save(productoNuevo, prod => {
-                res.status(200).json(prod);
-            });
-        } catch (err) {
-            logger.error(`Post Productos - Error: ${err}`);
-            res.status(400).json({error: err});
+    logger.info(`Post Productos/`);    
+    try {            
+        const { categ, descrip, nombre, img, precio, sku, stock } = req.body;
+        const productoNuevo = {
+            categ,
+            descrip,
+            nombre,
+            img,
+            precio, 
+            sku, 
+            stock
         }
+        logger.info(`Post Productos/ Producto: ${JSON.stringify(productoNuevo)} - 
+                                        ID: ${prod}`);
+        const produc = await  prod.save(productoNuevo);
+        res.status(200).json(ProductosDTO(produc));
+    } catch (err) {
+        logger.error(`Post Productos - Error: ${err}`);
+        res.status(400).json({error: err});
     }
 };
 
-export const modiProd = async (req, res) => {
-    let admin = req.query.admin;
-    logger.info(`Put Productos/ ${admin}`);
-    if (admin!=true) {
-        res.status(400).json({error: 400, descripción: 'Ruta Productos Mètodo Put NO Autorizado'});
-    } else {
-        try {
-            const productoNuevo = req.body;
-            logger.info(`Put Productos/ Producto: ${JSON.stringify(productoNuevo)} - 
-                                        ID: ${prod}`);
-            prod.modi(productoNuevo, prod => {
-                res.status(200).json(prod);
-            });
-        } catch (err) {
-            res.status(400).json({error: err});
-        } 
-    }
+export const modiProd = async (req, res) => {       
+    try {
+        const productoNuevo = req.body;
+        logger.info(`Put Productos/ Producto: ${JSON.stringify(productoNuevo)} - 
+                                    ID: ${prod}`);
+        const produc = await prod.modi(productoNuevo)
+        res.status(200).json(ProductosDTO(produc));
+    } catch (err) {
+        res.status(400).json({error: err});
+    } 
 };
 
 export const borrarProd = async (req, res) => {
-    let admin = req.query.admin;
-    logger.info(`Delete Productos/ ${admin}`);
-    if (admin!=true) {
-        res.status(400).json({error: 400, descripción: 'Ruta Productos Mètodo Delete NO Autorizado'});
-    } else {
-        try {
-            const { ...rest } = req.params;
-            const id = Number(rest.id);
-            logger.info(`Delete Productos/ ID: ${id}`);
-            prod.deleteById(id, prod => {
-                res.status(200).json(prod);
-            });
-        } catch (err) {
-            logger.error(`Delete Productos - Error: ${err}`);
-            res.status(400).json({error: err});
-        }
+    try {
+        const sku = req.params.sku;
+        logger.info(`Delete Productos/ ID: ${sku}`);
+        const produc = await prod.deleteById(sku);
+        res.status(200).json({});
+    } catch (err) {
+        logger.error(`Delete Productos - Error: ${err}`);
+        res.status(400).json({error: err});
     }
-};
+}
