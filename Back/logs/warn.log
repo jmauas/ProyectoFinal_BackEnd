@@ -8824,3 +8824,1053 @@
   level: 'info',
   timestamp: '2022-07-10T03:52:30.487Z'
 }
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-18T05:20:14.379Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-18T05:20:16.300Z'
+}
+{
+  message: 'GET  - / - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:21:57.712Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:21:58.034Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:22:16.361Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:35.181Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:36.055Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:41.644Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:42.399Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:42.562Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:42.832Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:43.083Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:44.345Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:24:44.567Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:10.970Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:11.365Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:11.590Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:14.454Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:14.619Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:14.780Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:14.930Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:15.485Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:15.927Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:16.189Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:16.338Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:16.786Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:16.835Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:17.004Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:17.241Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:18.042Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:35.308Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:35.547Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:38.755Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:38.899Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:39.059Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:39.786Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:39.977Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:40.203Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:49.591Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:49.814Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:50.102Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:50.485Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:50.975Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:51.899Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:52.314Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:52.466Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:52.650Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:53.052Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:25:53.200Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:01.158Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:01.307Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:01.586Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:03.866Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:23.685Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:24.909Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:25.296Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:25.548Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:26.260Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:29.953Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:37.038Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:37.196Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:38.895Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:47.979Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:48.126Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:49.506Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:49.687Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:49.916Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:50.130Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:26:51.588Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:01.529Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:02.171Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:25.141Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:25.405Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:25.546Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:25.607Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:25.793Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:26.042Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:26.206Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:27.966Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:30.186Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:34.161Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:35.603Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:53.781Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:53.973Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:55.392Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:55.633Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:56.340Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:57.614Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:57.932Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:27:58.370Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:02.099Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:02.263Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:02.492Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:02.685Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:02.935Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:03.088Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:03.269Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:03.531Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:06.387Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:06.593Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:07.545Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:07.698Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:07.840Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:08.039Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:08.235Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:08.432Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:11.691Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:14.283Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:16.855Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:17.393Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:25.126Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:25.279Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:30.473Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:30.688Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:42.413Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:46.440Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:46.894Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:47.142Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:47.391Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:48.499Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:48.649Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:48.799Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:49.075Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:49.220Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:49.473Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:49.802Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:50.116Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:50.262Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:50.403Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:50.570Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:52.897Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:28:59.178Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:00.903Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:01.347Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:01.517Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:01.663Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:02.063Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:02.736Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:02.879Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:03.153Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:03.291Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:03.457Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:06.544Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:06.779Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:09.477Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:09.640Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:10.910Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:11.166Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:11.399Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:11.554Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:11.772Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:13.854Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:15.691Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:16.600Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:16.875Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:17.193Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:19.045Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:19.194Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:19.622Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:22.799Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:35.111Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:35.270Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:35.624Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:35.776Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:35.942Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:36.087Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:36.426Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:36.577Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:37.084Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:39.247Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:42.037Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:45.012Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:45.314Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:45.750Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:46.871Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:47.828Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:48.882Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:49.126Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:49.269Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:49.453Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:49.602Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:49.846Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:50.019Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:50.220Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:50.364Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:50.589Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:54.232Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:54.546Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:55.761Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:55.908Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:56.054Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:56.628Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:56.982Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:57.381Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:57.553Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:57.786Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:57.946Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:58.087Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:58.308Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:58.452Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:29:58.595Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:02.212Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:06.039Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:07.236Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:07.686Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:08.211Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:08.408Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:08.591Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:08.759Z'
+}
+{
+  message: 'GET  - /favicon.ico - INEXISTENTE.',
+  level: 'warn',
+  timestamp: '2022-07-18T05:30:09.192Z'
+}

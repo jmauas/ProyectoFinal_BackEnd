@@ -6,6 +6,7 @@ import routerUsuarios from "./routes/usuario.route.js";
 import routerInfo from "./routes/info.route.js";
 import routerRandoms from "./routes/randoms.route.js";
 import routerSubir from "./routes/subir.route.js";
+import routerGraphql from "./routes/graphql.route.js";
 import express  from 'express';
 import http from 'http';
 import cors from 'cors';
@@ -94,6 +95,7 @@ class Server {
       this.app.use("/api/usuario", routerUsuarios);
       this.app.use("/api/info", routerInfo);
       this.app.use("/api/randoms", routerRandoms);
+      this.app.use("/api/graphql", routerGraphql);
 
       this.io.on('connection', async (socket) => {
          logger.info('Usuario Conectado');
