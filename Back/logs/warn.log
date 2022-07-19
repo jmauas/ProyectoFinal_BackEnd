@@ -9874,3 +9874,13 @@
   level: 'warn',
   timestamp: '2022-07-18T05:30:09.192Z'
 }
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-19T12:21:12.345Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-19T12:21:13.073Z'
+}
