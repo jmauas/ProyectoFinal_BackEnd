@@ -9884,3 +9884,116 @@
   level: 'info',
   timestamp: '2022-07-19T12:21:13.073Z'
 }
+{
+  message: 'Servidor Escuchando Y Listo en http://localhost:8080',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:08.384Z'
+}
+{
+  message: 'Conectados a MongoDB',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:09.146Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z,\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  createdAt: 1658601696267,\n' +
+    '  updatedAt: 1658601696267\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:12.806Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:13.029Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:21.945Z'
+}
+{
+  message: 'Post Login/{\n' +
+    '  _id: new ObjectId("62b0c583beae21ce8fca5ab4"),\n' +
+    '  created_at: 2022-06-20T19:07:47.306Z,\n' +
+    '  __v: 0,\n' +
+    '  updated_at: 2022-07-03T14:26:04.603Z,\n' +
+    "  username: 'j@mauas.com.ar',\n" +
+    "  nombre: 'Jonatan',\n" +
+    "  apellido: 'Mauas',\n" +
+    "  domicilio: 'aaadvfdvgfdvfdbtd',\n" +
+    "  localidad: 'CABA',\n" +
+    "  provincia: 'Ciudad Autónoma de Buenos Aires',\n" +
+    "  email: 'j@mauas.com.ar',\n" +
+    '  dni: 33333333,\n' +
+    "  codPais: '376',\n" +
+    "  tel: '01152637675',\n" +
+    "  password: '$2b$10$hM3gjzAuEm7PvjEu6Jc5ieC0FT7NP9mzqVJiS0U1BBfl7d.KJeyUK',\n" +
+    "  img: 'logoTT-Epson-1656858349564.png',\n" +
+    '  createdAt: 1658601696267,\n' +
+    '  updatedAt: 1658601696267\n' +
+    '}',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:23.953Z'
+}
+{
+  message: 'logoTT-Epson-1656858349564.png',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:24.131Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:32.022Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:42.967Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:52.900Z'
+}
+{
+  message: 'Get Producto ID/652',
+  level: 'info',
+  timestamp: '2022-07-31T21:35:59.416Z'
+}
+{
+  message: 'Get Productos/',
+  level: 'info',
+  timestamp: '2022-07-31T21:36:37.379Z'
+}
+{
+  message: 'Get Productos/categoria/reposteria',
+  level: 'info',
+  timestamp: '2022-07-31T21:36:43.706Z'
+}
+{
+  message: 'Get Productos/categoria/papeleria',
+  level: 'info',
+  timestamp: '2022-07-31T21:36:44.964Z'
+}
+{
+  message: 'Get Productos/categoria/cotillon',
+  level: 'info',
+  timestamp: '2022-07-31T21:36:46.052Z'
+}
